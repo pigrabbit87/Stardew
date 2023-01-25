@@ -27,7 +27,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [9],
       "schedules": [
         {
           "time": "6:10 AM",
@@ -57,7 +57,8 @@
           "time": "11:20 PM",
           "description": "Leaves the saloon to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 15, 16, and 17",
@@ -69,7 +70,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [15, 16, 17],
       "schedules": [
         {
           "time": "4:30 PM",
@@ -79,7 +80,8 @@
           "time": "12:20 AM",
           "description": "Returns to the fish shop."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Raining",
@@ -90,7 +92,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -113,7 +115,8 @@
           "time": "11:20 PM",
           "description": "Leaves the saloon to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Saturday (Day off)",
@@ -145,7 +148,8 @@
           "time": "11:00 PM",
           "description": "Leaves the saloon to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter",
@@ -179,7 +183,8 @@
           "time": "11:20 PM",
           "description": "Leaves the saloon to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Friday",
@@ -215,7 +220,8 @@
           "time": "11:20 PM",
           "description": "Leaves the saloon to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -249,7 +255,8 @@
           "time": "10:00 PM",
           "description": "Leaves the beach to head home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

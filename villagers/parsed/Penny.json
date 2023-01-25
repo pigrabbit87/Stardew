@@ -51,7 +51,8 @@
           "time": "6:40 PM",
           "description": "Returns to her trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Tuesday, Wednesday, Friday",
@@ -89,7 +90,8 @@
           "time": "6:30 PM",
           "description": "Returns to her trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Saturday",
@@ -125,7 +127,8 @@
           "time": "6:30 PM",
           "description": "Returns to her trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Sunday",
@@ -157,7 +160,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed in her room in the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday, Thursday",
@@ -198,7 +202,8 @@
           "time": "7:00 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday",
@@ -238,7 +243,8 @@
           "time": "8:00 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday",
@@ -278,7 +284,8 @@
           "time": "8:00 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -318,7 +325,8 @@
           "time": "8:00 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Saturday",
@@ -366,7 +374,8 @@
           "time": "9:00 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Sunday, Monday, Thursday",
@@ -404,7 +413,8 @@
           "time": "7:20 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday, Wednesday, Friday",
@@ -450,7 +460,8 @@
           "time": "8:00 PM",
           "description": "Arrives at the trailer, then goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Saturday",
@@ -494,7 +505,8 @@
           "time": "8:40 PM",
           "description": "Arrives at the trailer and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 4th",
@@ -534,7 +546,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed in her room in the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 15",
@@ -546,7 +559,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [15],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -572,7 +585,8 @@
           "time": "11:50 PM",
           "description": "Goes to bed for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Tuesday, Wednesday, Friday",
@@ -618,7 +632,8 @@
           "time": "8:00 PM",
           "description": "Arrives at the trailer, then goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Saturday",
@@ -654,7 +669,8 @@
           "time": "8:10 PM",
           "description": "Arrives at the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday, Thursday, Monday (Community Center Restored)",
@@ -663,7 +679,7 @@
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "monday",
         "thursday",
@@ -692,7 +708,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed in her room in the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday, Thursday, Monday (Community Center not yet restored)",
@@ -726,7 +743,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed in her room in the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Raining (Alternative A)",
@@ -737,7 +755,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -764,7 +782,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Raining (Alternative B)",
@@ -775,7 +794,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -798,7 +817,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Day 9 & Day 23 (With less than 6 hearts with Sam)",
@@ -807,12 +827,12 @@
       "uncertain": true,
       "heart_dependent": true,
       "heart_condition": {
-        "less_than_six": "sam)"
+        "less_than_six": "sam"
       },
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [9, 23],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -830,7 +850,8 @@
           "time": "6:30 PM",
           "description": "Goes to bed in her room in the trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Day 9 & Day 23 (with at least 6 hearts with Sam)",
@@ -838,11 +859,13 @@
       "default": false,
       "uncertain": true,
       "heart_dependent": true,
-      "heart_condition": {},
+      "heart_condition": {
+        "more_than_six": "sam"
+      },
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [9, 23],
       "schedules": [
         {
           "time": "8:10 AM",
@@ -860,7 +883,8 @@
           "time": "6:40 PM",
           "description": "Returns to her trailer for the evening."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -885,7 +909,11 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Tuesday, Wednesday, Friday",
@@ -918,7 +946,13 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "DOW": [
+        "tuesday",
+        "wednesday",
+        "friday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }

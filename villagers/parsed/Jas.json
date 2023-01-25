@@ -14,7 +14,7 @@
   },
   "schedule": [
     {
-      "name": "Tuesday the 9th & Tuesday the 23rdif not at 6 hearts with both Penny and Sam",
+      "name": "Tuesday the 9th & Tuesday the 23rd if not at 6 hearts with both Penny and Sam",
       "season": null,
       "default": false,
       "uncertain": false,
@@ -28,7 +28,8 @@
       ],
       "has_rain": false,
       "date": [
-        9
+        9,
+        23
       ],
       "schedules": [
         {
@@ -51,7 +52,8 @@
           "time": "9:00 pm",
           "description": "Goes to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 15",
@@ -81,7 +83,8 @@
           "time": "11:00 pm",
           "description": "Leaves the Night Market to return home"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 18",
@@ -93,7 +96,9 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [
+        18
+      ],
       "schedules": [
         {
           "time": "9:00 am",
@@ -115,7 +120,8 @@
           "time": "8:00 pm",
           "description": "Goes to her room to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Raining",
@@ -126,7 +132,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -149,7 +155,8 @@
           "time": "9:00 pm",
           "description": "Goes to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday, Wednesday, Friday",
@@ -183,7 +190,8 @@
           "time": "5:50 pm",
           "description": "Leaves town and walks home to go to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Saturday",
@@ -215,7 +223,8 @@
           "time": "8:00 pm",
           "description": "Walks home and goes to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer",
@@ -253,7 +262,8 @@
           "time": "9:00 pm",
           "description": "Goes to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -287,7 +297,8 @@
           "time": "9:00 pm",
           "description": "Goes to sleep"
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

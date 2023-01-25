@@ -23,7 +23,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -50,7 +50,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Monday",
@@ -98,7 +99,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Tuesday",
@@ -142,7 +144,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Wednesday",
@@ -190,7 +193,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Thursday",
@@ -234,7 +238,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Friday",
@@ -278,7 +283,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Saturday",
@@ -326,7 +332,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Sunday",
@@ -370,7 +377,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Raining",
@@ -381,7 +389,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -408,7 +416,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday",
@@ -460,7 +469,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday",
@@ -512,7 +522,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday",
@@ -548,7 +559,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Thursday",
@@ -600,7 +612,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -652,7 +665,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Saturday",
@@ -704,7 +718,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Sunday",
@@ -756,7 +771,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Raining",
@@ -767,7 +783,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -794,7 +810,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Monday",
@@ -842,7 +859,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday",
@@ -878,7 +896,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday, Thursday, Friday, Saturday, Sunday",
@@ -922,7 +941,8 @@
           "time": "10:30 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 9th",
@@ -946,7 +966,8 @@
           "time": "4:00 PM",
           "description": "Walks home"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 16th",
@@ -982,7 +1003,8 @@
           "time": "12:00 AM",
           "description": "Returns home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Raining",
@@ -993,7 +1015,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -1020,7 +1042,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday",
@@ -1052,7 +1075,8 @@
           "time": "7:00 PM",
           "description": "Leaves Room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Tuesday",
@@ -1084,7 +1108,8 @@
           "time": "8:00 PM",
           "description": "In Living room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday",
@@ -1124,7 +1149,8 @@
           "time": "8:00 PM",
           "description": "Returns to her room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Thursday",
@@ -1152,7 +1178,8 @@
           "time": "4:00 PM",
           "description": "Leaves Kitchen, goes to her room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Friday",
@@ -1184,7 +1211,8 @@
           "time": "7:00 PM",
           "description": "Leaves Room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Saturday",
@@ -1220,7 +1248,8 @@
           "time": "10:00 PM",
           "description": "Goes to Bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday",
@@ -1252,7 +1281,8 @@
           "time": "7:00 PM",
           "description": "Leaves Bedroom, In Living Room"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -1281,7 +1311,11 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }

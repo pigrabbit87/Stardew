@@ -66,7 +66,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Tuesday",
@@ -126,7 +127,8 @@
           "time": "10:20 PM",
           "description": "Enters her bedroom and goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Wednesday, Friday",
@@ -171,7 +173,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Sunday",
@@ -207,7 +210,8 @@
           "time": "5:00 PM",
           "description": "At home on Couch"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday, Thursday, Saturday",
@@ -257,7 +261,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday",
@@ -317,7 +322,8 @@
           "time": "10:20 PM",
           "description": "Enters her bedroom and goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday, Friday",
@@ -362,7 +368,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Sunday",
@@ -398,7 +405,8 @@
           "time": "5:00 PM",
           "description": "At home on Couch"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Monday, Thursday, Saturday",
@@ -448,7 +456,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday",
@@ -508,7 +517,8 @@
           "time": "10:20 PM",
           "description": "Enters her bedroom and goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday, Friday",
@@ -553,7 +563,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Sunday",
@@ -589,7 +600,8 @@
           "time": "5:00 PM",
           "description": "At home on Couch"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday, Thursday, Saturday",
@@ -639,7 +651,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Tuesday",
@@ -699,7 +712,8 @@
           "time": "10:20 PM",
           "description": "Enters her bedroom and goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday, Friday",
@@ -744,7 +758,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday",
@@ -780,7 +795,8 @@
           "time": "5:00 PM",
           "description": "At home on Couch"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Wednesday, Friday (Community Center Restored)",
@@ -789,7 +805,7 @@
       "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "wednesday",
         "friday"
@@ -817,7 +833,8 @@
           "time": "10:00 PM",
           "description": "Go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Saturday, Community Center Restored",
@@ -826,7 +843,7 @@
       "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "saturday"
       ],
@@ -849,7 +866,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Winter 17th",
@@ -885,7 +903,8 @@
           "time": "11:30 PM",
           "description": "Returns home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

@@ -40,7 +40,8 @@
           "time": "9:00pm",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday",
@@ -76,7 +77,8 @@
           "time": "8:00pm",
           "description": "Goes home to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Sunday",
@@ -112,7 +114,8 @@
           "time": "9:00pm",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -146,7 +149,8 @@
           "time": "8:00pm",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

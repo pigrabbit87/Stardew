@@ -23,7 +23,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [18],
       "schedules": [
         {
           "time": "7:00 AM",
@@ -41,7 +41,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Raining",
@@ -52,7 +53,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -71,7 +72,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Monday, Community Center Restored",
@@ -80,7 +82,7 @@
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "monday"
       ],
@@ -107,7 +109,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 16",
@@ -119,7 +122,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [16],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -137,7 +140,8 @@
           "time": "11:30 PM",
           "description": "Leaves Night Market to return home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday",
@@ -173,7 +177,8 @@
           "time": "8:00 PM",
           "description": "Returns home and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Friday",
@@ -209,7 +214,8 @@
           "time": "9:00 PM",
           "description": "Leaves the Stardrop Saloon and walks home to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -243,7 +249,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

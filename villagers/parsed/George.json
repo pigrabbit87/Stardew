@@ -22,7 +22,9 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [
+        17
+      ],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -40,7 +42,8 @@
           "time": "11:40 PM",
           "description": "Leaves the Night Market to return home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday the 23rd (All Seasons)",
@@ -54,7 +57,9 @@
         "tuesday"
       ],
       "has_rain": false,
-      "date": [],
+      "date": [
+        23
+      ],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -76,7 +81,8 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Rain",
@@ -106,7 +112,8 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -138,14 +145,15 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Sunday, Alex's 14-heart event witnessed",
       "season": null,
       "default": false,
-      "uncertain": false,
-      "heart_dependent": false,
+      "uncertain": true,
+      "heart_dependent": true,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [
@@ -170,7 +178,8 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": true
     },
     {
       "name": "Sunday",
@@ -202,7 +211,8 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -232,7 +242,8 @@
           "time": "8:00 PM",
           "description": "Goes to his bedroom for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

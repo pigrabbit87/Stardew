@@ -56,7 +56,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday the 23rd",
@@ -70,7 +71,9 @@
         "tuesday"
       ],
       "has_rain": false,
-      "date": [],
+      "date": [
+        23
+      ],
       "schedules": [
         {
           "time": "8:00 am",
@@ -96,7 +99,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 17th",
@@ -136,7 +140,8 @@
           "time": "11:40 pm",
           "description": "Arrives in her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Rainy day",
@@ -174,7 +179,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Monday, Thursday, Saturday (community center repaired)",
@@ -216,7 +222,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Daily Schedule",
@@ -258,7 +265,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Normal Daily Schedule",
@@ -300,7 +308,8 @@
           "time": "9:30 pm",
           "description": "Goes to her bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

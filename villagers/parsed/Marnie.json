@@ -24,7 +24,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [18],
       "schedules": [
         {
           "time": "6:00 AM",
@@ -54,7 +54,8 @@
           "time": "9:00 PM",
           "description": "Walks to her room and goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 16",
@@ -66,7 +67,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [16],
       "schedules": [
         {
           "time": "6:00 AM",
@@ -84,7 +85,8 @@
           "time": "11:40 PM",
           "description": "Walks back to her house to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 18",
@@ -96,7 +98,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [18],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -126,10 +128,46 @@
           "time": "9:00 PM",
           "description": "Walks to her room and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Raining / Thursday",
+      "name": "Thursday",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Stands behind the counter of her shop."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Closes her shop and walks to the kitchen."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the kitchen and walks to her room.  Stands in front of her dresser."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed."
+        }
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Thursday",
       "season": null,
       "default": false,
       "uncertain": false,
@@ -162,7 +200,8 @@
           "time": "9:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Monday",
@@ -198,7 +237,8 @@
           "time": "9:00 PM",
           "description": "Walks to her room and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday",
@@ -242,7 +282,8 @@
           "time": "9:00 PM",
           "description": "Walks to her room and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -276,7 +317,8 @@
           "time": "11:00 PM",
           "description": "Leaves the Saloon and walks back to her house to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

@@ -24,26 +24,27 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
           "time": "All day",
           "description": "Inside his house"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Spring Thursday\nFriday if the player has 6+ hearts with Leah",
+      "name": "Spring Thursday",
       "season": "spring",
       "default": false,
       "uncertain": false,
-      "heart_dependent": true,
-      "heart_condition": {
-        "more_than_six": "leah"
-      },
+      "heart_dependent": false,
+      "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [],
+      "DOW": [
+        "thursday"
+      ],
       "has_rain": false,
       "date": [],
       "schedules": [
@@ -59,7 +60,39 @@
           "time": "5:30 pm",
           "description": "Leaves Pierre's and heads home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Spring Friday if the player has 6+ hearts with Leah",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Friday and Sunday If the player has less than 6 hearts with Leah",
@@ -94,7 +127,8 @@
           "time": "11:40 pm",
           "description": "Leaves the saloon to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Regular Schedule",
@@ -128,7 +162,8 @@
           "time": "6:00 pm",
           "description": "Leaves the bridge to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday the 9th",
@@ -158,7 +193,8 @@
           "time": "4:00 pm",
           "description": "Leaves the clinic and returns home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Raining",
@@ -169,26 +205,27 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
           "time": "All day",
           "description": "Inside his house"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Summer Thursday\nFriday if the player has 6+ hearts with Leah",
+      "name": "Summer Thursday",
       "season": "summer",
       "default": false,
       "uncertain": false,
-      "heart_dependent": true,
-      "heart_condition": {
-        "more_than_six": "leah"
-      },
+      "heart_dependent": false,
+      "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [],
+      "DOW": [
+        "thursday"
+      ],
       "has_rain": false,
       "date": [],
       "schedules": [
@@ -204,7 +241,39 @@
           "time": "5:30 pm",
           "description": "Leaves Pierre's and heads home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Summer Friday if the player has 6+ hearts with Leah",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday and Sunday If the player has less than 6 hearts with Leah",
@@ -239,7 +308,8 @@
           "time": "11:40 pm",
           "description": "Leaves the saloon to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Regular Schedule",
@@ -269,7 +339,8 @@
           "time": "7:40 pm",
           "description": "Arrives home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Raining",
@@ -280,26 +351,27 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
           "time": "All day",
           "description": "Inside his house"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Fall Thursday\nFriday if the player has 6+ hearts with Leah",
+      "name": "Fall Thursday",
       "season": "fall",
       "default": false,
       "uncertain": false,
-      "heart_dependent": true,
-      "heart_condition": {
-        "more_than_six": "leah"
-      },
+      "heart_dependent": false,
+      "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [],
+      "DOW": [
+        "thursday"
+      ],
       "has_rain": false,
       "date": [],
       "schedules": [
@@ -315,7 +387,39 @@
           "time": "5:30 pm",
           "description": "Leaves Pierre's and heads home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Fall Friday if the player has 6+ hearts with Leah",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home."
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Friday and Sunday If the player has less than 6 hearts with Leah",
@@ -350,7 +454,8 @@
           "time": "11:40 pm",
           "description": "Leaves the saloon to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Regular Schedule",
@@ -384,13 +489,14 @@
           "time": "9:00 pm",
           "description": "Leaves his bonsai tree and walks over to his writing desk"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Winter RainingNote that this is only possible by using a Rain Totem.",
+      "name": "Winter Raining Note that this is only possible by using a Rain Totem.",
       "season": "winter",
       "default": false,
-      "uncertain": false,
+      "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
@@ -402,7 +508,8 @@
           "time": "All day",
           "description": "Inside his house."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday the 17th",
@@ -436,19 +543,20 @@
           "time": "1:00 am",
           "description": "Leaves the Night Market and returns to his cabin"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Winter Thursday\nFriday if the player has 6+ hearts with Leah",
+      "name": "Winter Thursday",
       "season": "winter",
       "default": false,
       "uncertain": false,
-      "heart_dependent": true,
-      "heart_condition": {
-        "more_than_six": "leah"
-      },
+      "heart_dependent": false,
+      "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [],
+      "DOW": [
+        "thursday"
+      ],
       "has_rain": false,
       "date": [],
       "schedules": [
@@ -464,7 +572,39 @@
           "time": "5:30 pm",
           "description": "Leaves Pierre's and heads home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Winter Friday if the player has 6+ hearts with Leah",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Friday and Sunday If the player has less than 6 hearts with Leah",
@@ -499,7 +639,8 @@
           "time": "11:40 pm",
           "description": "Leaves the saloon to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Regular Schedule",
@@ -525,7 +666,8 @@
           "time": "5:30 pm",
           "description": "Leaves the library to return home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Raining",
@@ -534,7 +676,10 @@
           "time": "All day",
           "description": "Inside Farmhouse"
         }
-      ]
+      ],
+      "has_rain": true,
+      "DOW": [],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -547,7 +692,11 @@
           "time": "5:00 pm",
           "description": "Leaves the beach and heads home to the farm"
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }

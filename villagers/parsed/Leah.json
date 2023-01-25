@@ -50,20 +50,18 @@
           "time": "11:40 pm",
           "description": "Leaves the Saloon to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Spring Rainy day, Friday, and Saturday",
+      "name": "Spring Rainy day",
       "season": "spring",
       "default": false,
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [
-        "friday",
-        "saturday"
-      ],
+      "DOW": [],
       "has_rain": true,
       "date": [],
       "schedules": [
@@ -87,7 +85,46 @@
           "time": "11:40 pm",
           "description": "Leaves the Saloon to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Spring Friday, and Saturday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Monday",
@@ -123,7 +160,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Normal Schedule",
@@ -165,20 +203,18 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Summer Rainy day, Friday, and Saturday",
+      "name": "Summer Rainy day",
       "season": "summer",
       "default": false,
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [
-        "friday",
-        "saturday"
-      ],
+      "DOW": [],
       "has_rain": true,
       "date": [],
       "schedules": [
@@ -202,7 +238,46 @@
           "time": "11:40 pm",
           "description": "Leaves the Saloon to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Summer Friday, and Saturday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday",
@@ -238,7 +313,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Normal Schedule if the beach bridge has been repaired",
@@ -248,6 +324,7 @@
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
+      "beach_bridge_repaired_dependent": true,
       "DOW": [],
       "has_rain": false,
       "date": [],
@@ -272,7 +349,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Normal Schedule if the beach bridge has not been repaired",
@@ -306,20 +384,18 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
-      "name": "Fall Rainy day, Friday, and Saturday",
+      "name": "Fall Friday, and Saturday",
       "season": "fall",
       "default": false,
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
-      "DOW": [
-        "friday",
-        "saturday"
-      ],
+      "DOW": [],
       "has_rain": true,
       "date": [],
       "schedules": [
@@ -343,7 +419,46 @@
           "time": "11:40 pm",
           "description": "Leaves the Saloon to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Fall Friday, and Saturday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Monday",
@@ -379,7 +494,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Normal Schedule",
@@ -413,7 +529,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 15th",
@@ -449,7 +566,8 @@
           "time": "11:40 pm",
           "description": "Leaves the Night Market to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday if it is not raining",
@@ -485,7 +603,8 @@
           "time": "12:00 am",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Normal Schedule",
@@ -519,7 +638,8 @@
           "time": "11:40 pm",
           "description": "Leaves the Saloon to return home and sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -536,7 +656,11 @@
           "time": "5:30 pm",
           "description": "Leaves the forest to return home to the farm."
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }

@@ -24,7 +24,9 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [
+        4
+      ],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -46,7 +48,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Rainy day",
@@ -76,7 +79,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Monday",
@@ -104,7 +108,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday, community center repaired",
@@ -136,7 +141,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Sunday, Alex's 14-heart event witnessed",
@@ -168,7 +174,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": true
     },
     {
       "name": "Normal Schedule",
@@ -198,7 +205,8 @@
           "time": "12:00 AM",
           "description": "Goes to his bedroom to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

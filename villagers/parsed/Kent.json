@@ -20,7 +20,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -47,7 +47,8 @@
           "time": "11:00 PM",
           "description": "Returns home to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Friday and Saturday",
@@ -84,7 +85,8 @@
           "time": "11:50 PM",
           "description": "Leaves the Saloon and returns home to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Sunday (if the player has seen Alex's 14 heart event.)",
@@ -128,7 +130,8 @@
           "time": "11:00 PM",
           "description": "Returns home to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": true
     },
     {
       "name": "Sunday",
@@ -172,7 +175,8 @@
           "time": "11:00 PM",
           "description": "Returns home to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -214,7 +218,8 @@
           "time": "11:00 PM",
           "description": "Returns home to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

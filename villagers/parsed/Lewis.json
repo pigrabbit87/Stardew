@@ -52,7 +52,8 @@
           "time": "10:00 PM",
           "description": "Heads to Bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Tuesday",
@@ -100,7 +101,8 @@
           "time": "10:00 PM",
           "description": "Heads to Bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Wednesday - Community Center Not Restored",
@@ -128,7 +130,8 @@
           "time": "5:00 PM",
           "description": "Enters Manor for the rest of the day."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Thursday - Community Center Not Restored",
@@ -176,7 +179,8 @@
           "time": "4:30 PM",
           "description": "Arrives home for the night"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Thursday - Community Center Restored",
@@ -185,7 +189,7 @@
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "thursday"
       ],
@@ -204,7 +208,8 @@
           "time": "7:30 PM",
           "description": "Arrives home and stands in kitchen."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Friday",
@@ -248,7 +253,8 @@
           "time": "11:10 PM",
           "description": "Goes back to Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Saturday",
@@ -292,7 +298,8 @@
           "time": "4:40 PM",
           "description": "Returns to the Manor and heads to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Sunday",
@@ -320,7 +327,8 @@
           "time": "4:30 PM",
           "description": "Home"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Sunday - Community Center Restored",
@@ -329,7 +337,7 @@
       "uncertain": false,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "sunday"
       ],
@@ -344,7 +352,8 @@
           "time": "12:20 PM",
           "description": "Staring at the safe inside the Community Center"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday",
@@ -388,7 +397,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday",
@@ -432,7 +442,8 @@
           "time": "10:00 PM",
           "description": "Heads to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday",
@@ -456,7 +467,8 @@
           "time": "5:00 PM",
           "description": "Enters Manor."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Thursday",
@@ -496,7 +508,8 @@
           "time": "4:00 PM",
           "description": "Walks home to his Manor."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -532,7 +545,8 @@
           "time": "5:00 PM",
           "description": "Arrives at The Saloon."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Saturday",
@@ -572,7 +586,8 @@
           "time": "10:00 PM",
           "description": "Goes to sleep."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Sunday",
@@ -604,7 +619,8 @@
           "time": "4:50 PM",
           "description": "Enters his Manor."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Monday",
@@ -648,7 +664,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday the 9th",
@@ -694,7 +711,8 @@
           "time": "9:20 PM",
           "description": "Goes to Marnie's bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday the 23rd",
@@ -726,7 +744,8 @@
           "time": "4:40 PM",
           "description": "Enters Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday the 3rd",
@@ -760,7 +779,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday the 24th",
@@ -786,7 +806,8 @@
           "time": "5:20 PM",
           "description": "At the Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday",
@@ -842,7 +863,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Thursday",
@@ -878,7 +900,8 @@
           "time": "4:40 PM",
           "description": "Arrives at the Manor."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Friday",
@@ -918,7 +941,8 @@
           "time": "11:30 PM",
           "description": "Arrives at the Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Saturday",
@@ -974,7 +998,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Sunday",
@@ -1014,7 +1039,8 @@
           "time": "10:00 PM",
           "description": "Sleeps in Mayor's Manor bedroom."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday",
@@ -1038,7 +1064,8 @@
           "time": "4:30 PM",
           "description": "Leaves beach on way to the Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Tuesday",
@@ -1082,7 +1109,8 @@
           "time": "4:40 PM",
           "description": "Enters Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday",
@@ -1106,7 +1134,8 @@
           "time": "4:30 PM",
           "description": "Enters Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Thursday",
@@ -1146,7 +1175,8 @@
           "time": "4:30 PM",
           "description": "Enters Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Friday",
@@ -1198,7 +1228,8 @@
           "time": "11:20 PM",
           "description": "Enters Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Saturday",
@@ -1238,7 +1269,8 @@
           "time": "4:40 PM",
           "description": "Enters Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday",
@@ -1258,7 +1290,8 @@
           "time": "All Day",
           "description": "Inside Mayor's Manor"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Raining",
@@ -1269,7 +1302,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -1296,11 +1329,12 @@
           "time": "10:00 PM",
           "description": "Leaves kitchen to go to bed. Mayor's Manor is locked."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Birthday",
-      "season": null,
+      "season": "spring",
       "default": false,
       "uncertain": true,
       "heart_dependent": false,
@@ -1308,31 +1342,33 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [17],
       "schedules": [
         {
           "time": "5:30 PM",
           "description": "In the saloon."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Birthday  (Community Center Restored)",
-      "season": null,
+      "season": "spring",
       "default": false,
       "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": ["17"],
       "schedules": [
         {
           "time": "12:20 PM",
           "description": "Stands in the Vault Room in the Community Center"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Monday, Wednesday, Thursday, Sunday (Community Center Restored)",
@@ -1341,7 +1377,7 @@
       "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
-      "community_center_repaired_dependent": false,
+      "community_center_repaired_dependent": true,
       "DOW": [
         "monday",
         "wednesday",
@@ -1383,7 +1419,8 @@
           "time": "7:40 PM",
           "description": "Arrives home. Moves to his kitchen."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Winter 16th",
@@ -1427,7 +1464,8 @@
           "time": "11:00 PM",
           "description": "Returns to the Manor."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

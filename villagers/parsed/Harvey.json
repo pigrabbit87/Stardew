@@ -22,7 +22,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -49,7 +49,8 @@
           "time": "10:00 PM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Tuesday & Thursday",
@@ -90,7 +91,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Friday",
@@ -126,7 +128,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Saturday",
@@ -150,7 +153,8 @@
           "time": "3:00 PM",
           "description": "Leaves the Museum to return to his room above the clinic."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Regular Schedule",
@@ -188,7 +192,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Raining",
@@ -199,7 +204,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -226,7 +231,8 @@
           "time": "10:00 PM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday & Thursday",
@@ -267,7 +273,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -303,7 +310,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Saturday",
@@ -327,7 +335,8 @@
           "time": "3:00 PM",
           "description": "Leaves the Museum to return to his room above the clinic."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Regular Schedule",
@@ -365,7 +374,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Raining",
@@ -376,7 +386,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -403,7 +413,8 @@
           "time": "10:00 PM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday & Thursday",
@@ -444,7 +455,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Friday",
@@ -480,7 +492,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Saturday",
@@ -504,7 +517,8 @@
           "time": "3:00 PM",
           "description": "Leaves the Museum to return to his room above the clinic."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Regular Schedule",
@@ -538,7 +552,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday, Winter 15",
@@ -578,7 +593,51 @@
           "time": "12:00 AM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
+    },
+    {
+      "name": "Winter Monday, Winter 15",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [
+        "15"
+      ],
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Stands in front of microwave in his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf in his room"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks to beach to attend Night Market"
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home and goes to bed"
+        }
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Raining",
@@ -589,7 +648,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -616,7 +675,8 @@
           "time": "10:00 PM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Tuesday & Thursday",
@@ -657,7 +717,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Friday",
@@ -693,7 +754,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Saturday",
@@ -717,7 +779,8 @@
           "time": "3:00 PM",
           "description": "Leaves the Museum to return to his room above the clinic."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Regular Schedule",
@@ -755,7 +818,8 @@
           "time": "10:00 PM",
           "description": "Returns home and goes to bed"
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -772,7 +836,11 @@
           "time": "5:00 PM",
           "description": "Leaves town and heads home to the farm."
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Tuesday and Thursday",
@@ -785,7 +853,12 @@
           "time": "6:00 PM",
           "description": "Leaves the clinic to return home to the farm."
         }
-      ]
+      ],
+      "DOW": [
+        "tuesday",
+        "thursday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }

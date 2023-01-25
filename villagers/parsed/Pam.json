@@ -28,7 +28,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [25],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -50,13 +50,14 @@
           "time": "12:00 AM",
           "description": "Leaves the saloon and heads home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule (No Bus Service)",
       "season": null,
       "default": true,
-      "uncertain": false,
+      "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
@@ -80,13 +81,14 @@
           "time": "12:00 AM",
           "description": "Leaves the saloon and heads home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule (Bus Service Restored)",
       "season": null,
       "default": true,
-      "uncertain": false,
+      "uncertain": true,
       "heart_dependent": false,
       "heart_condition": {},
       "community_center_repaired_dependent": false,
@@ -114,7 +116,8 @@
           "time": "12:00 AM",
           "description": "Leaves the the saloon and back home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

@@ -25,7 +25,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [11],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -47,7 +47,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter 16",
@@ -59,7 +60,7 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [],
+      "date": [16],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -81,7 +82,8 @@
           "time": "11:30 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Raining",
@@ -92,7 +94,7 @@
       "heart_condition": {},
       "community_center_repaired_dependent": false,
       "DOW": [],
-      "has_rain": false,
+      "has_rain": true,
       "date": [],
       "schedules": [
         {
@@ -119,7 +121,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer",
@@ -153,7 +156,8 @@
           "time": "11:00 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Tuesday, Wednesday, Friday",
@@ -191,7 +195,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Saturday",
@@ -223,7 +228,8 @@
           "time": "10:00 PM",
           "description": "Leaves town to go home to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Regular Schedule",
@@ -261,7 +267,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     }
   ]
 }

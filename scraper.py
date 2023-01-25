@@ -37,7 +37,7 @@ VILLAGERS = [
     'Wizard',
 ]
 
-DATES = ['1st', '2nd', '3rd', *[f'{num}th' for num in range(4, 29)]]
+DATES = ['1st', '2nd', '3rd', *[f'{num}th' for num in range(4, 20)], "21st", "22nd", "23rd", *[f'{num}th' for num in range(24, 29)]]
 
 # Process from raw html data
 def process_person(name):
@@ -64,19 +64,18 @@ def improve_person(name):
     with open(f'villagers/parsed/{name}.json', 'r') as f:
         person_data = json.load(f)
 
-    person_data = improve_schedule(person_data)
+    if name not in {"Wizard", "Sandy", "Dwarf", "Krobus"}:
+        person_data = improve_schedule(person_data)
 
     with open(f'villagers/parsed/{name}.json', 'w') as f:
         json.dump(person_data, f, indent=2)
 
 
 def improve_schedule(person_data):
-    # Raining
     schedules = person_data["schedule"]
     for idx, schedule in enumerate(schedules):
-        if "raining" in schedule["name"].lower():
-            person_data["schedule"][idx]["has_rain"] = True
-
+        # TODO: community center
+        
     return person_data
 
 

@@ -48,7 +48,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Wednesday If the player has less than 6 hearts with Haley",
@@ -90,7 +91,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Regular Schedule",
@@ -128,7 +130,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Tuesday the 16th",
@@ -166,7 +169,8 @@
           "time": "4:00 PM",
           "description": "Returns home for the night."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Rainy day",
@@ -204,7 +208,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday If the player has less than 6 hearts with Haley",
@@ -246,7 +251,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Regular Schedule",
@@ -284,7 +290,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Rainy day",
@@ -322,7 +329,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday If the player has less than 6 hearts with Haley",
@@ -364,7 +372,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Regular Schedule",
@@ -402,7 +411,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday, Winter 17",
@@ -416,7 +426,9 @@
         "wednesday"
       ],
       "has_rain": false,
-      "date": [17],
+      "date": [
+        17
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -430,7 +442,8 @@
           "time": "12:00 AM",
           "description": "Leaves the Night Market and returns home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday If the player has less than 6 hearts with Haley",
@@ -472,7 +485,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Regular Schedule",
@@ -514,7 +528,8 @@
           "time": "10:40 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -531,7 +546,11 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Sunday If the player has seen Alex's 14-heart event",
@@ -560,7 +579,11 @@
           "time": "10:00 PM",
           "description": "Leaves for the Farmhouse."
         }
-      ]
+      ],
+      "DOW": [
+        "sunday"
+      ],
+      "alex_14_heart": true
     }
   ]
 }

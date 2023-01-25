@@ -27,7 +27,9 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [4],
+      "date": [
+        4
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -49,7 +51,8 @@
           "time": "8:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Monday, Tuesday, Thursday and Saturday",
@@ -96,7 +99,8 @@
           "time": "7:30 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Wednesday",
@@ -136,7 +140,8 @@
           "time": "10:40 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Friday",
@@ -176,7 +181,8 @@
           "time": "9:40 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Spring Sunday",
@@ -216,7 +222,8 @@
           "time": "10:30 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Monday, Tuesday, Thursday and Saturday",
@@ -271,7 +278,8 @@
           "time": "8:10 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Wednesday",
@@ -311,7 +319,8 @@
           "time": "10:40 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Friday",
@@ -351,7 +360,8 @@
           "time": "9:40 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Summer Sunday",
@@ -387,7 +397,8 @@
           "time": "10:30 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Monday",
@@ -423,7 +434,8 @@
           "time": "7:30 PM",
           "description": "Arrives home and goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Tuesday, Thursday and Saturday",
@@ -469,7 +481,8 @@
           "time": "7:30 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Wednesday",
@@ -509,7 +522,8 @@
           "time": "10:40 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Friday",
@@ -549,7 +563,8 @@
           "time": "9:40 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Fall Sunday",
@@ -589,7 +604,8 @@
           "time": "10:30 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Winter 15",
@@ -601,7 +617,9 @@
       "community_center_repaired_dependent": false,
       "DOW": [],
       "has_rain": false,
-      "date": [15],
+      "date": [
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -619,7 +637,8 @@
           "time": "12:00 AM",
           "description": "Back at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Monday, Tuesday, Thursday and Saturday",
@@ -654,7 +673,8 @@
           "time": "7:30 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Wednesday",
@@ -694,7 +714,8 @@
           "time": "10:40 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Friday",
@@ -734,7 +755,8 @@
           "time": "9:40 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Winter Sunday",
@@ -774,7 +796,8 @@
           "time": "10:30 PM",
           "description": "Arrives home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Rainy Day (Option 1)",
@@ -808,7 +831,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations Rainy Day (Option 2)",
@@ -846,7 +870,8 @@
           "time": "10:00 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 6th or 16th of any Season",
@@ -883,7 +908,8 @@
           "time": "9:40 PM",
           "description": "Arrives at home."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
@@ -918,7 +944,8 @@
           "time": "5:00 PM",
           "description": "Heads home to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
@@ -953,7 +980,8 @@
           "time": "5:00 PM",
           "description": "Heads home to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
@@ -988,7 +1016,8 @@
           "time": "5:00 PM",
           "description": "Heads home to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
@@ -1021,7 +1050,8 @@
           "time": "5:00 PM",
           "description": "Heads home to go to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Deviations 11th & 25th of any season (When you have more than 6 hearts with Sebastian)",
@@ -1068,7 +1098,8 @@
           "time": "7:30 PM",
           "description": "Goes to bed."
         }
-      ]
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Monday",
@@ -1113,7 +1144,11 @@
           "time": "10:00 PM",
           "description": "At home in bed."
         }
-      ]
+      ],
+      "DOW": [
+        "monday"
+      ],
+      "alex_14_heart": false
     },
     {
       "name": "Marriage Friday",
@@ -1150,7 +1185,11 @@
           "time": "10:00 PM",
           "description": "At home in bed."
         }
-      ]
+      ],
+      "DOW": [
+        "friday"
+      ],
+      "alex_14_heart": false
     }
   ]
 }
