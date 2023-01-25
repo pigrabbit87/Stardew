@@ -1,0 +1,427 @@
+{
+  "basic": {
+    "Birthday": "Summer 13",
+    "Lives In": "Pelican Town",
+    "Address": "1 River Road",
+    "Family": "Evelyn\u00a0(Grandmother) George\u00a0(Grandfather)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Summer 16",
+    "Best Gifts": [
+      "Complete Breakfast",
+      "Salmon Dinner"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Rainy day",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves his room to go stand outside by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday If the player has less than 6 hearts with Haley",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves the tree to go back to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves his room to go stand outside by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday the 16th",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Goes to clinic."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "In clinic waiting room."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Clinic examination room."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer Rainy day",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday If the player has less than 6 hearts with Haley",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "Leaves home to go to beach."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves beach to go work at ice cream stand."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home to lift weights in his room."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Stands in front entryway of house."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room to stand by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Rainy day",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday If the player has less than 6 hearts with Haley",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday, Winter 17",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his house to go to the Spa."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the gym section of the Spa, heads to the beach to attend the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the Night Market and returns home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday If the player has less than 6 hearts with Haley",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his bedroom."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his house to go to the Spa."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the gym section of the Spa, heads home to his room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves his house to stand by the dog kennel."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Goes back inside his house and stands in the entryway."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes back to his bedroom and stands by his dresser."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves farm to visit his grandparents."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Heads back to farm."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Sunday If the player has seen Alex's 14-heart event",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves farm to go stand beneath a tree by his grandparent's house."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes inside of his grandparent's house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves for the Farmhouse."
+        }
+      ]
+    }
+  ]
+}
