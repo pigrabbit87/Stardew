@@ -1,0 +1,961 @@
+{
+  "basic": {
+    "Birthday": "Spring 14",
+    "Lives In": "Pelican Town",
+    "Address": "2 Willow Lane",
+    "Family": "Emily\u00a0(Sister)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Winter 9",
+    "Best Gifts": [
+      "Coconut",
+      "Fruit Salad",
+      "Pink Cake",
+      "Sunflower"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Raining",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and stands by her dresser in her bedroom."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to the vanity in her bedroom."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns to her room."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves her room and stands in the living room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Monday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves her room to go to kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the river south of Marnie's Ranch"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the river south of Marnie's Ranch, taking pictures"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In the living room"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Leaves house to stand by the fountain"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves fountain to go home"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Arrives home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Stands in kitchen"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Asleep"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Waking up"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Raining",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and stands by her dresser in her bedroom."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to the vanity in her bedroom."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns to her room."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves her room and stands in the living room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In the living room"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "In the kitchen"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Thursday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaving house to go to beach"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "At the beach, upper left"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Goes to Alex's ice cream stand"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "At Alex's ice cream stand, next to museum/library"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Raining",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and stands by her dresser in her bedroom."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to the vanity in her bedroom."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns to her room."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves her room and stands in the living room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:20 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the river south of Marnie's Ranch"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the river south of Marnie's Ranch, taking pictures"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room"
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In the living room"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "In the kitchen"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday, Thursday, Friday, Saturday, Sunday",
+      "schedules": [
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In her room"
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 9th",
+      "schedules": [
+        {
+          "time": "11:30 AM",
+          "description": "Harvey's Clinic"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Walks home"
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 16th",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and stands by her dresser in her bedroom."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to the vanity in her bedroom."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Raining",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and stands by her dresser in her bedroom."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to the vanity in her bedroom."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns to her room."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves her room and stands in the living room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Get off bed"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Kitchen"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves Room"
+        }
+      ]
+    },
+    {
+      "name": "Winter Tuesday",
+      "schedules": [
+        {
+          "time": "11:00 AM",
+          "description": "In her Room"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Kitchen"
+        },
+        {
+          "time": "5:10 PM",
+          "description": "In Kitchen"
+        },
+        {
+          "time": "8:00 PM",
+          "description": "In Living room"
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Her Room"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to the fountain"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "By the fountain, left of Community Center"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "At home, cooking dinner"
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Returns to her room"
+        }
+      ]
+    },
+    {
+      "name": "Winter Thursday",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Gets up from bed"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Room, goes to Kitchen"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Kitchen, goes to her room"
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Get off bed"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Go in the kitchen"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Goes to her room"
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves Room"
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Her Room"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Room, Goes to Kitchen"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Kitchen, Goes to Her Room"
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves Room, in Living Room"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to Bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday",
+      "schedules": [
+        {
+          "time": "12:00 PM",
+          "description": "Moves from Bedroom to Kitchen"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "In Kitchen"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "In Her Bedroom"
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves Bedroom, In Living Room"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home"
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Starts leaving home"
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Arrives at 2 Willow Lane"
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Starts leaving 2 Willow Lane"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Goes back home"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    }
+  ]
+}

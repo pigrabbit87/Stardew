@@ -1,0 +1,61 @@
+{
+  "basic": {
+    "Birthday": "Summer 22",
+    "Lives In": "The Mines",
+    "Address": "Eastern Cave",
+    "Marriage": "No",
+    "Best Gifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Emerald",
+      "Jade",
+      "Lemon Stone",
+      "Omni Geode",
+      "Ruby",
+      "Topaz"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Image\n\nName\n\nDescription\n\nPrice",
+      "schedules": [
+        {
+          "time": "",
+          "description": "Life Elixir"
+        },
+        {
+          "time": "",
+          "description": "Oil of Garlic"
+        },
+        {
+          "time": "",
+          "description": "Cherry Bomb"
+        },
+        {
+          "time": "",
+          "description": "Bomb"
+        },
+        {
+          "time": "",
+          "description": "Mega Bomb"
+        },
+        {
+          "time": "",
+          "description": "Miner's Treat"
+        },
+        {
+          "time": "",
+          "description": "Rarecrow #6"
+        },
+        {
+          "time": "",
+          "description": "Stone Cairn"
+        },
+        {
+          "time": "",
+          "description": "Weathered Floor Recipe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "basic": {
+    "Birthday": "Fall 11",
+    "Lives In": "Pelican Town",
+    "Address": "1 Willow Lane",
+    "Family": "Kent\u00a0(Husband) Sam\u00a0(Son) Vincent\u00a0(Son)",
+    "Marriage": "No",
+    "Clinic Visit": "Spring 11 (with Vincent)\u00a0Spring 18",
+    "Best Gifts": [
+      "Chocolate Cake",
+      "Crispy Bass",
+      "Diamond",
+      "Eggplant Parmesan",
+      "Fried Eel",
+      "Pancakes",
+      "Rhubarb Pie",
+      "Vegetable Medley"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Monday, Thursday, Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Sits in living room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Leaves and heads to Town Square"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves and heads to her home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Stands in kitchen"
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Stands in living room"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In the kitchen."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves her house, heading to Pierre's General Store."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Enters Pierre's General Store."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Standing by the fireplace in the back area of Pierre's."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Begins exercising with Marnie, Caroline, Emily, and Robin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Stands by the fireplace with Caroline, Marnie, and Robin."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Exits Pierre's, heading home."
+        },
+        {
+          "time": "7:10 PM",
+          "description": "Enters her house."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Puts Vincent to bed."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves Vincent's room, heads to bed."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Enters her bedroom and goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her house and heads for JojaMart"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "At home in front of fridge."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "At home in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home, walks to Pierre's General Store"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at Pierre's, walks into the Chapel in the back"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store, walks home"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "At home on Couch"
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday, Thursday, Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Sits in living room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Leaves and heads to Town Square"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves and heads to her home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Stands in kitchen"
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Stands in living room"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In the kitchen."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves her house, heading to Pierre's General Store."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Enters Pierre's General Store."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Standing by the fireplace in the back area of Pierre's."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Begins exercising with Marnie, Caroline, Emily, and Robin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Stands by the fireplace with Caroline, Marnie, and Robin."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Exits Pierre's, heading home."
+        },
+        {
+          "time": "7:10 PM",
+          "description": "Enters her house."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Puts Vincent to bed."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves Vincent's room, heads to bed."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Enters her bedroom and goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her house and heads for JojaMart"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "At home in front of fridge."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "At home in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home, walks to Pierre's General Store"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at Pierre's, walks into the Chapel in the back"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store, walks home"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "At home on Couch"
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday, Thursday, Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Sits in living room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Leaves and heads to Town Square"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves and heads to her home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Stands in kitchen"
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Stands in living room"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In the kitchen."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves her house, heading to Pierre's General Store."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Enters Pierre's General Store."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Standing by the fireplace in the back area of Pierre's."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Begins exercising with Marnie, Caroline, Emily, and Robin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Stands by the fireplace with Caroline, Marnie, and Robin."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Exits Pierre's, heading home."
+        },
+        {
+          "time": "7:10 PM",
+          "description": "Enters her house."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Puts Vincent to bed."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves Vincent's room, heads to bed."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Enters her bedroom and goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her house and heads for JojaMart"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "At home in front of fridge."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "At home in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home, walks to Pierre's General Store"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at Pierre's, walks into the Chapel in the back"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store, walks home"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "At home on Couch"
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday, Thursday, Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Sits in living room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Leaves and heads to Town Square"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves and heads to her home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Stands in kitchen"
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Stands in living room"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In the kitchen."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves her house, heading to Pierre's General Store."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Enters Pierre's General Store."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Standing by the fireplace in the back area of Pierre's."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Begins exercising with Marnie, Caroline, Emily, and Robin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Stands by the fireplace with Caroline, Marnie, and Robin."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Exits Pierre's, heading home."
+        },
+        {
+          "time": "7:10 PM",
+          "description": "Enters her house."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Puts Vincent to bed."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves Vincent's room, heads to bed."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Enters her bedroom and goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her house and heads for JojaMart"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "At home in front of fridge."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Puts Vincent to bed"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "At home in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home, walks to Pierre's General Store"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at Pierre's, walks into the Chapel in the back"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store, walks home"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "At home on Couch"
+        }
+      ]
+    },
+    {
+      "name": "Deviations Wednesday, Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Inside her house, in the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at Pierre's General Store"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Inside her house, in the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Vincent's Room"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Saturday, Community Center Restored",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In the kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves home, walks to Community Center, stands inside main room"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Returns home, stands in living room"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Deviations Winter 17th",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Inside her house, in the kitchen."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Inside her house, in the living room, sitting on the blue sofa."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Meets with Caroline in the north near her house."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "11:30 PM",
+          "description": "Returns home."
+        }
+      ]
+    }
+  ]
+}

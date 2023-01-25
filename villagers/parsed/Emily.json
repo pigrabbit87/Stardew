@@ -1,0 +1,216 @@
+{
+  "basic": {
+    "Birthday": "Spring 27",
+    "Lives In": "Pelican Town",
+    "Address": "2 Willow Lane",
+    "Family": "Haley\u00a0(Sister)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Winter 11",
+    "Best Gifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Cloth",
+      "Emerald",
+      "Jade",
+      "Ruby",
+      "Survival Burger",
+      "Topaz",
+      "Wool"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Fall 15",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves home for Calico Desert to visit Sandy on her birthday"
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter 11",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves home for Harvey's Clinic, waits in waiting room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Moves to exam room"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves clinic to work at The Stardrop Saloon"
+        },
+        {
+          "time": "12:30 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter 15",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves bedroom to stand in living room"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Leaves home to attend the Night Market"
+        },
+        {
+          "time": "12:30 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves bedroom to stand in living room"
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves home to work at The Stardrop Saloon"
+        },
+        {
+          "time": "1:00 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to attend aerobics class at Pierre's General Store"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Aerobics class begins"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's to work at The Stardrop Saloon"
+        },
+        {
+          "time": "12:30 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Friday, Community Center restored",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Walks to Community Center, stands in Crafts Room"
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the Community Center to work at The Stardrop Saloon"
+        },
+        {
+          "time": "12:30 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves bedroom to stand in living room"
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves home to work at The Stardrop Saloon"
+        },
+        {
+          "time": "12:30 AM",
+          "description": "Goes home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to walk to 2 Willow Lane, stands in kitchen"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves 2 Willow Lane to go to town, stands east of Community Center and looks at the river"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Heads for the Stardrop Saloon to work"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves the Saloon to return home"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Friday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves house to go to docks west of Fish Shop"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves beach to go to Pierre's General Store"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves Pierre's to go to work at the Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves the Saloon to return home"
+        }
+      ]
+    }
+  ]
+}

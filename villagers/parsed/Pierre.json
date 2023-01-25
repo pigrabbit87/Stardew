@@ -1,0 +1,43 @@
+{
+  "basic": {
+    "Birthday": "Spring 26",
+    "Lives In": "Pelican Town",
+    "Address": "Pierre's General Store",
+    "Family": "Caroline\u00a0(Wife) Abigail\u00a0(Daughter)",
+    "Marriage": "No",
+    "Best Gifts": [
+      "Fried Calamari"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "In the aisles of the general store."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Goes to stand behind the counter of the general store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the counter and stands in the aisles again."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Goes to the kitchen in his house."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to his room and stands in front of the bookcase."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to sleep."
+        }
+      ]
+    }
+  ]
+}

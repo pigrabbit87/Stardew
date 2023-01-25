@@ -1,7 +1,7 @@
 import requests, bs4, json, time
 
 VILLAGERS = [
-    'Alex',
+    # 'Alex',
     # 'Elliot',
     # 'Harvey',
     # 'Sam',
@@ -31,10 +31,10 @@ VILLAGERS = [
     # 'Pam',
     # 'Pierre',
     # 'Robin',
-    # 'Sandy',
-    # 'Vincent',
-    # 'Willy',
-    # 'Wizard',
+    'Sandy',
+    'Vincent',
+    'Willy',
+    'Wizard',
 ]
 
 def process_person(name):
@@ -49,7 +49,8 @@ def process_person(name):
     person_data['basic'] = parse_info(soup)
 
     # Parse schedule
-    person_data['schedule'] = process_schedules(soup)
+    if name not in {"Wizard", "Sandy"}:
+        person_data['schedule'] = process_schedules(soup)
 
     return person_data
 

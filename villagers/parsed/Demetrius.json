@@ -1,0 +1,420 @@
+{
+  "basic": {
+    "Birthday": "Summer 19",
+    "Lives In": "The Mountain",
+    "Address": "24 Mountain Road",
+    "Family": "Robin\u00a0(Wife) Maru\u00a0(Daughter) Sebastian\u00a0(Step-son)",
+    "Marriage": "No",
+    "Clinic Visit": "Summer 25",
+    "Best Gifts": [
+      "Bean Hotpot",
+      "Ice Cream",
+      "Rice Pudding",
+      "Strawberry"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Rainy Day",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "In his Home, reading a newspaper in the laboratory."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Behind the counter of the Carpenter's Shop in the entryway."
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Moves back to the microscope in the laboratory."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Stands in front of the fridge in his kitchen."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, taking notes at the microscope."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "In The Saloon standing next to Robin."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Dances with Robin in the Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home from the Saloon to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Spring Normal Spring Routine",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, standing in front of the sink in his kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Stands outside, next to the potted plant next to his garage."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Stands at the cliff southeast of his house."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Goes inside and stands in front of the fridge in his kitchen."
+        },
+        {
+          "time": "8:40 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Thursday the 25th",
+      "schedules": [
+        {
+          "time": "08:40 AM",
+          "description": "Leaves home for the Clinic."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Moves to the left examination room in the Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Clinic to go home and stand next to the bookcase in his bedroom."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Rainy Day",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "In his Home, reading a newspaper in the laboratory."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Behind the counter of the Carpenter's Shop in the entryway."
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Moves back to the microscope in the laboratory."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Stands in front of the fridge in his kitchen."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, taking notes at the microscope."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "In The Saloon standing next to Robin."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Dances with Robin in the Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home from the Saloon to sleep."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Arrives home with Robin."
+        }
+      ]
+    },
+    {
+      "name": "Summer Normal Summer Routine",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, standing in front of the sink in his kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Goes to the fountain west of the Community Center."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads home to stand in front of the fridge in his kitchen."
+        },
+        {
+          "time": "8:40 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Rainy Day",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "In his Home, reading a newspaper in the laboratory."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Behind the counter of the Carpenter's Shop in the entryway."
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Moves back to the microscope in the laboratory."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Stands in front of the fridge in his kitchen."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, taking notes at the microscope."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "In The Saloon standing next to Robin."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Dances with Robin in the Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home from the Saloon to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Fall Normal Fall Routine",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, standing in front of the sink in his kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Heads outside to take notes by the northern end of the lake."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads home to stand in front of the fridge in his kitchen."
+        },
+        {
+          "time": "8:40 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 16",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "In his Home, reading a newspaper in the laboratory."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Behind the counter of the Carpenter's Shop in the entryway."
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Leaves home to attend the Night Market."
+        },
+        {
+          "time": "11:30 PM",
+          "description": "Leaves Night Market to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter Rainy Day",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "In his Home, reading a newspaper in the laboratory."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Taking notes at the microscope."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Behind the counter of the Carpenter's Shop in the entryway."
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Moves back to the microscope in the laboratory."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Stands in front of the fridge in his kitchen."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Stands in front of the stove in his kitchen."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Stands next to the bookshelf in his bedroom."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "7:50 AM",
+          "description": "At home, taking notes at the microscope."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "In The Saloon standing next to Robin."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Dances with Robin in the Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home from the Saloon to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter Normal Winter Routine",
+      "schedules": [
+        {
+          "time": "See \"Rainy Day\"",
+          "description": "Demetrius' Normal Routine for Winter is the same as his Rainy Day routine."
+        }
+      ]
+    }
+  ]
+}

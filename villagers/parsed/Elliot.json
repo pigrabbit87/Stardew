@@ -1,0 +1,355 @@
+{
+  "basic": {
+    "Birthday": "Fall 5",
+    "Lives In": "The Beach",
+    "Address": "Elliott's Cabin",
+    "Marriage": "Yes",
+    "Clinic Visit": "Summer 9",
+    "Best Gifts": [
+      "Crab Cakes",
+      "Duck Feather",
+      "Lobster",
+      "Pomegranate",
+      "Squid Ink",
+      "Tom Kha Soup"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Raining",
+      "schedules": [
+        {
+          "time": "All day",
+          "description": "Inside his house"
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday\nFriday if the player has 6+ hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday and Sunday If the player has less than 6 hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Leaves his cabin to stand on the docks next to Willy's house"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the docks to visit The Stardrop Saloon"
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the saloon to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Leaves his cabin to stand on the beach south of his house"
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Leaves the beach and returns to his cabin"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Leaves his cabin to stand on the bridge just north of the beach"
+        },
+        {
+          "time": "6:00 pm",
+          "description": "Leaves the bridge to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday the 9th",
+      "schedules": [
+        {
+          "time": "10:30 am",
+          "description": "Leaves his house and goes to the Clinic"
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves from waiting room to examination room inside Clinic"
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves the clinic and returns home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Summer Raining",
+      "schedules": [
+        {
+          "time": "All day",
+          "description": "Inside his house"
+        }
+      ]
+    },
+    {
+      "name": "Summer Thursday\nFriday if the player has 6+ hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday and Sunday If the player has less than 6 hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves his cabin to stand on the docks next to Willy's house"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the docks to visit The Stardrop Saloon"
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the saloon to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home, heads to the forest south of Leah's Cottage"
+        },
+        {
+          "time": "6:00 pm",
+          "description": "Leaves the forest to return home for the night"
+        },
+        {
+          "time": "7:40 pm",
+          "description": "Arrives home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Raining",
+      "schedules": [
+        {
+          "time": "All day",
+          "description": "Inside his house"
+        }
+      ]
+    },
+    {
+      "name": "Fall Thursday\nFriday if the player has 6+ hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home."
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday and Sunday If the player has less than 6 hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves his cabin to stand on the docks next to Willy's house"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the docks to visit The Stardrop Saloon"
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the saloon to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home, heads to the Library"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves the library to return home for the night"
+        },
+        {
+          "time": "6:40 pm",
+          "description": "Returns home and stands by his bonsai tree"
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Leaves his bonsai tree and walks over to his writing desk"
+        }
+      ]
+    },
+    {
+      "name": "Winter RainingNote that this is only possible by using a Rain Totem.",
+      "schedules": [
+        {
+          "time": "All day",
+          "description": "Inside his house."
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday the 17th",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home, heads to the Museum"
+        },
+        {
+          "time": "4:50 pm",
+          "description": "Leaves the library to attend the Night Market"
+        },
+        {
+          "time": "1:00 am",
+          "description": "Leaves the Night Market and returns to his cabin"
+        }
+      ]
+    },
+    {
+      "name": "Winter Thursday\nFriday if the player has 6+ hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home and heads to Pierre's General Store"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves Pierre's and heads home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday and Sunday If the player has less than 6 hearts with Leah",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves his cabin to stand on the docks next to Willy's house"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the docks to visit The Stardrop Saloon"
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the saloon to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "At home"
+        },
+        {
+          "time": "11:30 am",
+          "description": "Leaves home, heads to the Library"
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves the library to return home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Raining",
+      "schedules": [
+        {
+          "time": "All day",
+          "description": "Inside Farmhouse"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 am",
+          "description": "Leaves the Farmhouse and heads to the beach"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the beach and heads home to the farm"
+        }
+      ]
+    }
+  ]
+}

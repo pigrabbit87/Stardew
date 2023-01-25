@@ -1,0 +1,779 @@
+{
+  "basic": {
+    "Birthday": "Fall 13",
+    "Lives In": "Pelican Town",
+    "Address": "Pierre's General Store",
+    "Family": "Pierre\u00a0(Father) Caroline\u00a0(Mother)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Spring 4",
+    "Best Gifts": [
+      "Amethyst",
+      "Banana Pudding",
+      "Blackberry Cobbler",
+      "Chocolate Cake",
+      "Pufferfish",
+      "Pumpkin",
+      "Spicy Eel"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Spring 4",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Leaves her room to go to the clinic for her annual check-up."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Leaves the waiting room and enters the exam room of Harvey's Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the clinic and goes home back to her room."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Monday, Tuesday, Thursday and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to Museum."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Inside Museum library looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Walks to the Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving home to go to the Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Near Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday, Tuesday, Thursday and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves home, walks to the Train Platform."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Waiting in front of the Train Platform."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Walks to the lake east of the Carpenter's Shop."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Standing by The Mountain lake east of the Carpenter's Shop."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Arrives home."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Plays video games."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to the library"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Inside library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Walks to Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving home to go to the The Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves home, walks to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Standing in front of the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaving home to go to The Beach."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Standing at the end of long pier to the left of the Fish Shop."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday, Thursday and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaving the house to go to stand at Bus Stop."
+        },
+        {
+          "time": "2:20 PM",
+          "description": "Standing at bus stop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Leaves home to go to library."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Inside library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Walks to Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving Pierre's General Store to go to The Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Near the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 15",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Walking to the Carpenter's Shop. Stands next to the counter."
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Heads to the beach for the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Back at home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday, Tuesday, Thursday and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Walking to the Carpenter's Shop. Stands next to the counter."
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Heads back home and plays video games."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to the library."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Inside the library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Walks to Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving Pierre's General Store to go to The Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Near the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Rainy Day (Option 1)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her room to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to the kitchen."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns to her room."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Rainy Day (Option 2)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaving the house to go to The Stardrop Saloon."
+        },
+        {
+          "time": "2:50 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 6th or 16th of any Season",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Goes to The Mountain, standing on the west side of the lake, playing the flute."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Heads home to go to bed."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to Sebastian's room."
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In Sebastian's room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 11th & 25th of any season (When you have more than 6 hearts with Sebastian)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaving the house to go to stand on the bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home, in the kitchen."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to Pierre's General Store."
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Arrives at Pierre's General Store, stands by the counter near Pierre."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves Pierre's General Store, walking to the Graveyard."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the Graveyard, heading to The Stardrop Saloon."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Arrives at The Stardrop Saloon, heads to the arcade."
+        },
+        {
+          "time": "5:40 PM",
+          "description": "Begins playing Journey of the Prairie King."
+        },
+        {
+          "time": "8:30 PM",
+          "description": "Stops playing Journey of the Prairie King, starts walking home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "At home in bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Friday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Heads to Pierre's General Store and stands in the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Walking to The Mountain."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "West side of the mountain lake."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Walking to The Stardrop Saloon."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "In The Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "8:30 PM",
+          "description": "Walking home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "At home in bed."
+        }
+      ]
+    }
+  ]
+}

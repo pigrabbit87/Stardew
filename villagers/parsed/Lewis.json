@@ -1,0 +1,1012 @@
+{
+  "basic": {
+    "Birthday": "Spring 7",
+    "Lives In": "Pelican Town",
+    "Address": "Mayor's Manor",
+    "Marriage": "No",
+    "Clinic Visit": "Fall 9",
+    "Best Gifts": [
+      "Autumn's Bounty",
+      "Glazed Yams",
+      "Green Tea",
+      "Hot Pepper",
+      "Vegetable Medley"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Monday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and exits Manor"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Walks into Local Shop (Willy's, Pierre's or Robin's)"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Exits Local Shop"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Enters Manor and stares at stove (presumably cooking)"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Moves from stove to Pelican Town Data Book"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to Bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and exits Manor."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Gardening in front of Manor"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Stops gardening and heads towards Pierre's"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "Enters Pierre's"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's"
+        },
+        {
+          "time": "4:50 PM",
+          "description": "Enters Manor and stares at stove (presumably cooking)"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Moves from stove to Pelican Town Data Book"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to Bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday - Community Center Not Restored",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and exits Manor."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Marnie's house"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Enters Manor for the rest of the day."
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday - Community Center Not Restored",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Standing in his kitchen at home"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Exits Manor."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Gardening in front of Manor"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Stops gardening and heads to Pierre's"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Standing in front of tree to the left of Clinic"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves tree and stands in front of Pierre's"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Arrives home for the night"
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday - Community Center Restored",
+      "schedules": [
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Manor headed to Community Center"
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Community Center and heads home"
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Arrives home and stands in kitchen."
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and exits Manor"
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Gardening in front of Manor"
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Stops gardening and heads towards Pierre's"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Stands outside of Clinic in front of tree"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Moves to the fountain"
+        },
+        {
+          "time": "9:30 PM",
+          "description": "In The Stardrop Saloon"
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Goes back to Manor"
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Stands in the kitchen of the Manor"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves the Manor and heads to the Blacksmith"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at the Blacksmith"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves the Blacksmith and heads to the Museum"
+        },
+        {
+          "time": "1:20 PM",
+          "description": "Arrives at the Museum"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Museum and heads Home"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Returns to the Manor and heads to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday",
+      "schedules": [
+        {
+          "time": "11:00 AM",
+          "description": "Gardening in front of Manor"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Standing by the tree to the left of Harvey's Clinic"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Home"
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday - Community Center Restored",
+      "schedules": [
+        {
+          "time": "11:50 AM",
+          "description": "Arrives at the Community Center"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "Staring at the safe inside the Community Center"
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Inside home standing in kitchen."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Exits home."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Enters Local Shop (Willy's, Pierre's, or Robin's)."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Exits Local Shop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Enter's home and stands at stove."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Moves from stove to Pelican Town Data Book."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Standing in his kitchen."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Tends to his garden."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves his garden and heads towards Pierre's General Store."
+        },
+        {
+          "time": "12:20 PM",
+          "description": "Arrives at Pierre's General Store."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store to go to the Manor"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Arrives The Mayor's Manor and stands in kitchen."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Heads to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday",
+      "schedules": [
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Marnie's house"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Enters Manor."
+        }
+      ]
+    },
+    {
+      "name": "Summer Thursday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Standing in kitchen."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Walks outside to stand in his garden."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Walks to town square."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Stands in front of tree beside Harvey's Clinic."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Stands in front of bulletin board at  Pierre's."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Walks home to his Manor."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "11:00 AM",
+          "description": "Working in his flower bed."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Leaves the Manor."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Standing in front of tree beside the Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Standing by water fountain."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Arrives at The Saloon."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves Manor."
+        },
+        {
+          "time": "10:50 AM",
+          "description": "Collects business tax from Blacksmith."
+        },
+        {
+          "time": "1:20 PM",
+          "description": "Arrives at Museum."
+        },
+        {
+          "time": "4:50 PM",
+          "description": "Returns to Manor (presumably cooking)."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Looks at Pelican Town book in his Manor."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves his Manor."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Gardening in front of his Manor"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Standing on the pier at the The Beach."
+        },
+        {
+          "time": "4:50 PM",
+          "description": "Enters his Manor."
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "At home, in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves the Manor; starts walking to the Carpenter's Shop"
+        },
+        {
+          "time": "11:50 AM",
+          "description": "Arrives inside the Carpenter's Shop"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves to go home"
+        },
+        {
+          "time": "4:50 PM",
+          "description": "At the Manor in the kitchen"
+        },
+        {
+          "time": "9:00 PM",
+          "description": "At his desk in the Manor"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday the 9th",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Stands in the dining room of the Manor"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Arrives at Marnie's house"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves Marnie's house"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Enters Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Clinic."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Arrives at Marnie's house and stares at microwave (presumably cooking)"
+        },
+        {
+          "time": "9:20 PM",
+          "description": "Goes to Marnie's bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday the 23rd",
+      "schedules": [
+        {
+          "time": "11:30 AM",
+          "description": "Gardens outside of the Manor"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Arrives at Pierre's General Store"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's General Store"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Enters Manor"
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday the 3rd",
+      "schedules": [
+        {
+          "time": "4:00 PM",
+          "description": "Leave's Marnie's house"
+        },
+        {
+          "time": "5:40 PM",
+          "description": "At the Manor in the kitchen"
+        },
+        {
+          "time": "9:10 PM",
+          "description": "At his desk at home"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday the 24th",
+      "schedules": [
+        {
+          "time": "11:30 AM",
+          "description": "Arrives at Marnie's house"
+        },
+        {
+          "time": "5:20 PM",
+          "description": "At the Manor"
+        }
+      ]
+    },
+    {
+      "name": "Fall Wednesday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "At the Manor in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gardening in front of the Manor"
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Leaves Manor"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "At the tree west of Harvey's Clinic"
+        },
+        {
+          "time": "1:50 PM",
+          "description": "Starts walking toward Pierre's General Store"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "In front of Pierre's General Store"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's and heads home"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "In the Manor in the kitchen"
+        },
+        {
+          "time": "8:00 PM",
+          "description": "At his desk at home"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Thursday",
+      "schedules": [
+        {
+          "time": "10:40 AM",
+          "description": "In front of Manor."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Outside of Harvey's Clinic."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "In front of Pierre's."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves to go home."
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Arrives at the Manor."
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday",
+      "schedules": [
+        {
+          "time": "12:30 PM",
+          "description": "Standing next to Harvey's Clinic"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Standing by water fountain"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks to the Stardrop Saloon"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Arrives at the Stardrop Saloon"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Walks to the Manor"
+        },
+        {
+          "time": "11:30 PM",
+          "description": "Arrives at the Manor"
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "At home, in the kitchen"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gardening in front of Mayor's Manor"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves Manor"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "At the tree west of Harvey's Clinic"
+        },
+        {
+          "time": "1:50 PM",
+          "description": "Starts walking toward Pierre's General Store"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "In front of Pierre's General Store"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's and heads to the Manor"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "At home, in the kitchen"
+        },
+        {
+          "time": "8:00 PM",
+          "description": "At his desk in the Manor"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Sunday",
+      "schedules": [
+        {
+          "time": "9:30 AM",
+          "description": "Gardens in front of the Manor."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Walks from the Manor to river near Leah's cabin."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Stands by river near Leah's cabin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Walks from river to Mayor's Manor."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Inside the Manor."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Sleeps in Mayor's Manor bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday",
+      "schedules": [
+        {
+          "time": "11:00 AM",
+          "description": "Arrives at the Fish Shop"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Leaves beach on way to the Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Tuesday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Wakes up"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Stands in front of Manor"
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Moves to front garden"
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Starts walking towards Pierre's General Store"
+        },
+        {
+          "time": "12:20 PM",
+          "description": "Enters  Pierre's General Store"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Begins walking towards Mayor's Manor"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Enters Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Wednesday",
+      "schedules": [
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Marnie's Ranch"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Enters Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Thursday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves Mayor's Manor and tends garden"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to tree next to Harvey's Clinic"
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Arrives at tree next to Harvey's Clinic"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Moves to in front of Pierre's General Store"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to Mayor's Manor"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Enters Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Inside Mayor's Manor"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves Mayor's Manor and tends garden"
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Moves to tree next to Harvey's Clinic"
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Moves to the fountain"
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Arrives at the fountain"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Moves to the Stardrop Saloon"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Enters the Stardrop Saloon"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and goes to Mayor's Manor"
+        },
+        {
+          "time": "11:20 PM",
+          "description": "Enters Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Inside Mayor's Manor"
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves Mayor's Manor and moves to Blacksmith"
+        },
+        {
+          "time": "10:50 AM",
+          "description": "Enters Blacksmith"
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves Blacksmith and moves to Museum"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Museum and returns to Mayor's Manor"
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Enters Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday",
+      "schedules": [
+        {
+          "time": "All Day",
+          "description": "Inside Mayor's Manor"
+        }
+      ]
+    },
+    {
+      "name": "Deviations Raining",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Mayor's Manor is unlocked. Lewis is in his kitchen."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Departs for the the saloon."
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Arrives at the the saloon."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Departs for home."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Arrives home. Moves to his kitchen."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves kitchen to go to bed. Mayor's Manor is locked."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Birthday",
+      "schedules": [
+        {
+          "time": "5:30 PM",
+          "description": "In the saloon."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Birthday  (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "12:20 PM",
+          "description": "Stands in the Vault Room in the Community Center"
+        }
+      ]
+    },
+    {
+      "name": "Deviations Monday, Wednesday, Thursday, Sunday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Mayor's Manor is unlocked. Lewis is in his kitchen."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Gardens in front of Manor. Moves to east side at 9:40 AM."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Leaves the Manor."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Enters Community Center."
+        },
+        {
+          "time": "12:10 PM",
+          "description": "Stands in the Vault Room in the Community Center."
+        },
+        {
+          "time": "5:10 PM",
+          "description": "Moves to stand in front of the fireplace in the Community Center."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves the Community Center to go to Manor."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Arrives home. Moves to his kitchen."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Winter 16th",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Standing in kitchen."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Walks outside to stand in his garden."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Walks to town square."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Stands in front of tree beside Harvey's Clinic."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Stands in front of bulletin board at  Pierre's."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Returns to the Manor."
+        }
+      ]
+    }
+  ]
+}

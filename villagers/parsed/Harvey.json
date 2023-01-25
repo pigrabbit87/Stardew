@@ -1,0 +1,572 @@
+{
+  "basic": {
+    "Birthday": "Winter 14",
+    "Lives In": "Pelican Town",
+    "Address": "Medical Clinic",
+    "Marriage": "Yes",
+    "Best Gifts": [
+      "Coffee",
+      "Pickles",
+      "Super Meal",
+      "Truffle Oil",
+      "Wine"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Raining",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf to read"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Heads to The Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday & Thursday",
+      "schedules": [
+        {
+          "time": "7:30 AM",
+          "description": "In exam room of clinic"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Moves to waiting room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Returns to exam room"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Goes up to his room, stands in front of bookshelf"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Pierre's General Store"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns to his room above the clinic"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to the Museum"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the Museum to return to his room above the clinic."
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walks around the park west of the town square"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Returns to clinic, stands at right side of front desk"
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes upstairs to his room, reads in front of bookshelf"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Raining",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf to read"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Heads to The Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday & Thursday",
+      "schedules": [
+        {
+          "time": "7:30 AM",
+          "description": "In exam room of clinic"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Moves to waiting room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Returns to exam room"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Goes upstairs to his room, reads in front of bookshelf"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Pierre's General Store"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns to his room above the clinic"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to the Museum"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the Museum to return to his room above the clinic."
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walks south of fountain west of the Community Center"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Returns to clinic, stands at right side of front desk"
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Goes up to his room, reads in front of bookshelf"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Raining",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf to read"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Heads to The Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday & Thursday",
+      "schedules": [
+        {
+          "time": "7:30 AM",
+          "description": "In exam room of clinic"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Moves to waiting room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Returns to exam room"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Goes upstairs to his room, reads in front of bookshelf"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Pierre's General Store"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns to his room above the clinic"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to the Museum"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the Museum to return to his room above the clinic."
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walks into town, stands by tree west of bridge to beach"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Returns to his room, sits in front of radio"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday, Winter 15",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Stands in front of microwave in his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf in his room"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks to beach to attend Night Market"
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Raining",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf to read"
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Heads to The Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Tuesday & Thursday",
+      "schedules": [
+        {
+          "time": "7:30 AM",
+          "description": "In exam room of clinic"
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Moves to waiting room"
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Returns to exam room"
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Goes upstairs to his room, reads in front of bookshelf"
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Stands in front of refrigerator in his room"
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes to Pierre's General Store"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns to his room above the clinic"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to the Museum"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the Museum to return to his room above the clinic."
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room"
+        },
+        {
+          "time": "8:40 AM",
+          "description": "Works at the clinic's front desk"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes upstairs to his room, sits in front of radio"
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Moves to bookshelf to read"
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Heads to The Stardrop Saloon"
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves the farmhouse and heads to Pierre's General Store."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walks to fountain left of Community Center."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves town and heads home to the farm."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Tuesday and Thursday",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "Leaves the farmhouse and heads to the clinic."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the clinic to return home to the farm."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "basic": {
+    "Birthday": "Spring 18",
+    "Lives In": "Pelican Town",
+    "Address": "Trailer",
+    "Family": "Penny\u00a0(Daughter)",
+    "Marriage": "No",
+    "Clinic Visit": "Spring 25",
+    "Best Gifts": [
+      "Beer",
+      "Cactus Fruit",
+      "Glazed Yams",
+      "Mead",
+      "Pale Ale",
+      "Parsnip",
+      "Parsnip Soup",
+      "Pi\u00f1a Colada"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring 25",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Lounges on her couch in the trailer."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves her trailer and heads to the medical clinic for her annual checkup."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Continues her checkup at the clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the clinic and heads to the saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the saloon and heads home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule (No Bus Service)",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Lounges on her couch in the trailer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves the trailer and heads to JojaMart."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves JojaMart and heads to the saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the saloon and heads home."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule (Bus Service Restored)",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Lounges on her couch in the trailer."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Leaves the trailer to head to the bus stop just east of the farm."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Arrives at the bus stop for the afternoon."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the bus stop and heads to the saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the the saloon and back home for the night."
+        }
+      ]
+    }
+  ]
+}

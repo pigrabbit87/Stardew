@@ -1,0 +1,255 @@
+{
+  "basic": {
+    "Birthday": "Winter 7",
+    "Lives In": "Pelican Town",
+    "Address": "Pierre's General Store",
+    "Family": "Pierre\u00a0(Husband) Abigail\u00a0(Daughter)",
+    "Marriage": "No",
+    "Clinic Visit": "Fall 25",
+    "Best Gifts": [
+      "Fish Taco",
+      "Green Tea",
+      "Summer Spangle",
+      "Tropical Curry"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Fall 25",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "10:00 am",
+          "description": "Leaves the kitchen, walks to her bedroom."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to Harvey's Clinic and stands in waiting room."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves to the left examination room in Harvey's Clinic."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Returns home and stands in her living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter 16",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to an aisle of the general store."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Goes to stand in the town square."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves the town square to attend the Night Market."
+        },
+        {
+          "time": "11:30 pm",
+          "description": "Leaves the Night Market to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to an aisle of the general store."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Walks to her bedroom and reads next to her bookcase."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves bedroom to stand in the living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In her living room, near the uppermost dresser."
+        },
+        {
+          "time": "10:30 am",
+          "description": "Moves more towards the middle of the living room."
+        },
+        {
+          "time": "1:00 pm",
+          "description": "Caroline exercises with the Aerobics class in her living room."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Aerobics class ends, she stands in the living room chatting."
+        },
+        {
+          "time": "6:10 pm",
+          "description": "Walks to kitchen and eats some cookies."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Wednesday",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "10:00 am",
+          "description": "In her sunroom, near her tea sapling."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to the fountain to the left of the Community Center."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Returns home and stands in her living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Friday",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "10:00 am",
+          "description": "In her sunroom, near her tea sapling."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Goes to the Museum to read between some bookshelves."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Returns home and stands in her living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Saturday, Community Center restored",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "11:00 am",
+          "description": "Walks to Community Center and stands in the reading area in the main room."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Returns home and stands in her living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Stands in her bedroom."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Moves one space over to stand in front of her bookshelf."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Walks to an aisle of the general store."
+        },
+        {
+          "time": "2:40 pm",
+          "description": "Leaves home to stand below the tree south of the Community Center."
+        },
+        {
+          "time": "6:30 pm",
+          "description": "Returns home to stand in her bedroom."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "In the kitchen of Pierre's General Store."
+        },
+        {
+          "time": "10:00 am",
+          "description": "In her sunroom, near her tea sapling."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to an aisle of the general store."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Leaves home to stand in town square with Jodi."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Returns home and stands in her living room."
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to bed."
+        }
+      ]
+    }
+  ]
+}

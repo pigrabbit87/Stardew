@@ -1,0 +1,112 @@
+{
+  "basic": {
+    "Birthday": "Summer 26",
+    "Lives In": "Ginger Island",
+    "Address": "Hut (<6 ) Treehouse (\u22656 )",
+    "Marriage": "No",
+    "Best Gifts": [
+      "Duck Feather",
+      "Mango",
+      "Ostrich Egg",
+      "Poi"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Rain",
+      "schedules": [
+        {
+          "time": "9:00am",
+          "description": "Inside his hut"
+        },
+        {
+          "time": "11:00am",
+          "description": "Stands outside the entrance to his hut"
+        },
+        {
+          "time": "2:00pm",
+          "description": "Returns inside his hut"
+        },
+        {
+          "time": "9:00pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "schedules": [
+        {
+          "time": "9:00am",
+          "description": "Inside his hut"
+        },
+        {
+          "time": "10:30am",
+          "description": "Walks to the dock on Island South, stands near the entrance to Island southeast"
+        },
+        {
+          "time": "1:30pm",
+          "description": "Walks to the jungle outside his hut (Island East), stands near the bushes at the southwest corner"
+        },
+        {
+          "time": "5:00pm",
+          "description": "Walks to Island North, stands to the right of the Parrot Vendor"
+        },
+        {
+          "time": "8:00pm",
+          "description": "Goes home to bed"
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "schedules": [
+        {
+          "time": "9:00am",
+          "description": "Inside his hut"
+        },
+        {
+          "time": "9:30am",
+          "description": "Walks to the Gem Bird Shrine, through the hidden passage in the east of the Jungle"
+        },
+        {
+          "time": "2:00pm",
+          "description": "Stands outside the entrance to his hut"
+        },
+        {
+          "time": "5:00pm",
+          "description": "Enters his hut"
+        },
+        {
+          "time": "9:00pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00am",
+          "description": "Inside his hut"
+        },
+        {
+          "time": "10:30am",
+          "description": "Stands outside the entrance to his hut"
+        },
+        {
+          "time": "12:00pm",
+          "description": "Walks to the docks at Island South, stands at the northwest corner, next to the parrot perch"
+        },
+        {
+          "time": "3:00pm",
+          "description": "Walks to Island North, stands at the northwest corner of the map, west of the volcano entrance"
+        },
+        {
+          "time": "8:00pm",
+          "description": "Returns home and goes to bed"
+        }
+      ]
+    }
+  ]
+}

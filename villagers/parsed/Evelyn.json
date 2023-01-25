@@ -1,0 +1,231 @@
+{
+  "basic": {
+    "Birthday": "Winter 20",
+    "Lives In": "Pelican Town",
+    "Address": "1 River Road",
+    "Family": "George\u00a0(Husband) Alex\u00a0(Grandson)",
+    "Marriage": "No",
+    "Clinic Visit": "The 2nd of each seasonThe 23rd of each season (with George)",
+    "Best Gifts": [
+      "Beet",
+      "Chocolate Cake",
+      "Diamond",
+      "Fairy Rose",
+      "Stuffing",
+      "Tulip"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Tuesday the 2nd",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:30 am",
+          "description": "Leaves home to sit in the waiting room of Harvey's clinic."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves to the left examination room."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Returns home from the clinic to stand in her kitchen."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday the 23rd",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Leaves home to wait in Harvey's clinic with George."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves to the left examination room with George."
+        },
+        {
+          "time": "4:10 pm",
+          "description": "Returns home from the clinic to stand in her kitchen."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Winter 17th",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Stands next to the TV with George."
+        },
+        {
+          "time": "12:10 pm",
+          "description": "Stands at her kitchen table."
+        },
+        {
+          "time": "1:00 pm",
+          "description": "Sits in her house."
+        },
+        {
+          "time": "4:30 pm",
+          "description": "Arrives at the Night Market."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Arrives in her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Rainy day",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Stands next to the TV with George."
+        },
+        {
+          "time": "12:10 pm",
+          "description": "Stands at her kitchen table."
+        },
+        {
+          "time": "4:30 pm",
+          "description": "Stands in her kitchen, near the appliances."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Monday, Thursday, Saturday (community center repaired)",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Stands next to the TV with George."
+        },
+        {
+          "time": "12:10 pm",
+          "description": "Heads to the community center to sit in the armchair in the crafts room."
+        },
+        {
+          "time": "4:30 pm",
+          "description": "Stands in her kitchen, near the appliances."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Summer Daily Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Stands next to the TV with George."
+        },
+        {
+          "time": "12:10 pm",
+          "description": "Stands at her kitchen table."
+        },
+        {
+          "time": "1:00 pm",
+          "description": "Goes to tend the plants just northwest of town square."
+        },
+        {
+          "time": "4:30 pm",
+          "description": "Stands in her kitchen, near the appliances."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    },
+    {
+      "name": "Normal Daily Schedule",
+      "schedules": [
+        {
+          "time": "8:00 am",
+          "description": "Standing in her kitchen."
+        },
+        {
+          "time": "10:40 am",
+          "description": "Stands next to the TV with George."
+        },
+        {
+          "time": "12:10 pm",
+          "description": "Stands at her kitchen table."
+        },
+        {
+          "time": "1:00 pm",
+          "description": "Goes to tend the plants just southeast of town square."
+        },
+        {
+          "time": "4:30 pm",
+          "description": "Stands in her kitchen, near the appliances."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Moves to stand in front of the bookcase in her living room."
+        },
+        {
+          "time": "9:30 pm",
+          "description": "Goes to her bedroom."
+        }
+      ]
+    }
+  ]
+}

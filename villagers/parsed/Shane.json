@@ -1,0 +1,526 @@
+{
+  "basic": {
+    "Birthday": "Spring 20",
+    "Lives In": "Cindersap Forest",
+    "Address": "Marnie's Ranch",
+    "Family": "Marnie\u00a0(Aunt)  Jas\u00a0(Goddaughter)",
+    "Marriage": "Yes",
+    "Best Gifts": [
+      "Beer",
+      "Hot Pepper",
+      "Pepper Poppers",
+      "Pizza"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Monday - Friday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "7:10 AM",
+          "description": "Leaves Marnie's Ranch and heads to JojaMart."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads for the Stardrop Saloon."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Spring Raining (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "7:10 AM",
+          "description": "Leaves Marnie's Ranch and heads to JojaMart."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads for the Stardrop Saloon."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Spring Sunday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "All Day",
+          "description": "Standing in his room at Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Spring Monday - Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen and returns to his room."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves his room and stands by the fireplace at Marnie's Ranch."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "7:10 AM",
+          "description": "Leaves Marnie's Ranch and heads to JojaMart."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads for the Stardrop Saloon."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "12:30 PM",
+          "description": "In kitchen at Marnie's Ranch"
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday - Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen and returns to his room."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves his room and stands by the fireplace at Marnie's Ranch."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "7:10 AM",
+          "description": "Leaves Marnie's Ranch and heads to JojaMart."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads for the Stardrop Saloon."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Fall Sunday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Leaves the kitchen and goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday - Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen and returns to his room."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves his room and stands by the fireplace at Marnie's Ranch."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 15\nIf JojaMart is still open, Shane will not attend work on Winter 15.",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "At Marnie's Ranch"
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen to head to his room."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves Marnie's Ranch to attend the Night Market."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Night Market to return home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "7:10 AM",
+          "description": "Leaves Marnie's Ranch and heads to JojaMart."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves JojaMart and heads for the Stardrop Saloon."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Standing in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads for Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday (Community Center Not Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Standing in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "2:00 AM",
+          "description": "Still standing in kitchen..."
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "1:10 PM",
+          "description": "Standing in his room at Marnie's Ranch."
+        },
+        {
+          "time": "3:10 PM",
+          "description": "Standing in shop room at Marnie's Ranch."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Standing in Saloon."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday - Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the kitchen and returns to his room."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves his room and stands by the fireplace at Marnie's Ranch."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his room and stands in kitchen at Marnie's Ranch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Marnie's Ranch and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back to Marnie's Ranch."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Starts leaving home."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Arrives at Marnie's Ranch."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves Marnie's Ranch."
+        },
+        {
+          "time": "11:50 AM",
+          "description": "Stands under big tree, north in Cindersap Forest."
+        },
+        {
+          "time": "05:00 PM",
+          "description": "Leaves big tree and heads home."
+        },
+        {
+          "time": "07:30 PM",
+          "description": "Arrives at home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Friday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home and heads for the river in Pelican Town."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Standing by river."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves the river and heads to Pierre's General Store."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves Pierre's General Store and heads to the Stardrop Saloon."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves the Stardrop Saloon and heads back home."
+        }
+      ]
+    }
+  ]
+}

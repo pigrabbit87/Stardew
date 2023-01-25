@@ -1,0 +1,168 @@
+{
+  "basic": {
+    "Birthday": "Spring 4",
+    "Lives In": "Pelican Town",
+    "Address": "1 Willow Lane",
+    "Family": "Jodi\u00a0(Wife) Sam\u00a0(Son) Vincent\u00a0(Son)",
+    "Marriage": "No",
+    "Best Gifts": [
+      "Fiddlehead Risotto",
+      "Roasted Hazelnuts"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "At home, standing in his living room."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves home, stands under a tree just north of his house."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Returns home and stands in the entryway."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Leaves home, stands under the tree in front of his house."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Friday and Saturday",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Leaves home, stands under the tree between the sewer entrance and the bridge to the beach."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Returns home to stand in his living room."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves home, stands under a tree just north of his house."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Goes to The Stardrop Saloon."
+        },
+        {
+          "time": "11:50 PM",
+          "description": "Leaves the Saloon and returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Sunday (if the player has seen Alex's 14 heart event.)",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "At home, standing in the kitchen."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home, heads to the altar room inside Pierre's General Store."
+        },
+        {
+          "time": "11:10 AM",
+          "description": "Heads to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves Pierre's and heads home to stand in the entryway."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Leaves home, stands under the tree in front of his house."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "At home, standing in the kitchen."
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves home, heads to the altar room inside Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the altar room, moves to Pierre's counter."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Pierre's and heads home to stand in the entryway."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Leaves home, stands under the tree in front of his house."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "7:00 AM",
+          "description": "Leaves home, stands under the tree between the sewer entrance and the bridge to the beach."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Returns home to stand in his living room."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves home, stands under a tree just north of his house."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Returns home, stands in the entryway."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Leaves home, stands under the tree in front of his house."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    }
+  ]
+}

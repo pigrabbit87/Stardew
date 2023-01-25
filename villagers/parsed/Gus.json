@@ -1,0 +1,144 @@
+{
+  "basic": {
+    "Birthday": "Summer 8",
+    "Lives In": "Pelican Town",
+    "Address": "The Stardrop Saloon",
+    "Marriage": "No",
+    "Clinic Visit": "Fall 4",
+    "Best Gifts": [
+      "Diamond",
+      "Escargot",
+      "Fish Taco",
+      "Orange",
+      "Tropical Curry"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Fall 4",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room, sitting on the couch."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Heads to the Clinic waiting room and looks at a poster."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Moves to the left examination room in the clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the clinic to go tend the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Rainy day",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room, sitting on the couch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Cleans glasses behind the bar."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Quits cleaning glasses and tends the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves home to go to Pierre's General Store."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Returns to the Saloon to tend the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday, community center repaired",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room, sitting on the couch."
+        },
+        {
+          "time": "8:30 AM",
+          "description": "Goes to the kitchen in the community center."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Returns to the Saloon to tend the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Sunday, Alex's 14-heart event witnessed",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room, sitting on the couch."
+        },
+        {
+          "time": "11:40 AM",
+          "description": "Goes to the backroom of the Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Goes to tend the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Normal Schedule",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "In his room, sitting on the couch."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Cleans glasses behind the bar."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Quits cleaning glasses and tends the bar."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes to his bedroom to sleep."
+        }
+      ]
+    }
+  ]
+}

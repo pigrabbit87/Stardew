@@ -1,0 +1,213 @@
+{
+  "basic": {
+    "Birthday": "Fall 18",
+    "Lives In": "Cindersap Forest",
+    "Address": "Marnie's Ranch",
+    "Family": "Jas\u00a0(Niece) Shane\u00a0(Nephew)",
+    "Marriage": "No",
+    "Clinic Visit": "Fall 18\u00a0Winter 18 (with Jas)",
+    "Best Gifts": [
+      "Diamond",
+      "Farmer's Lunch",
+      "Pink Cake",
+      "Pumpkin Pie"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Fall 18",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her house and walks to Harvey's Clinic."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Arrives at Harvey's Clinic, stands in the waiting room."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Walks into the exam room at Harvey's Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves Harvey's Clinic and walks back to her house."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Arrives home and stands in the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Walks to her room and goes to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter 16",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Stands behind the counter of her shop."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "11:40 PM",
+          "description": "Walks back to her house to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter 18",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves her house to take Jas to Harvey's Clinic."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Stands in clinic waiting room."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Walks into clinic examination room."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves clinic and walks back to her house."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives at home and stands in the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Walks to her room and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Raining / Thursday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Stands behind the counter of her shop."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Closes her shop and walks to the kitchen."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the kitchen and walks to her room.  Stands in front of her dresser."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "8:10 AM",
+          "description": "Leaves her house and walks to Pierre's General Store."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves Pierre's General Store and walks back to her house."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Arrives at home and stands in the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Walks to her room and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves her house and walks to Pierre's General Store."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Arrives at Pierre's General Store to exercise with Caroline, Jodi, Emily, and Robin."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Chats with the other ladies after exercise class."
+        },
+        {
+          "time": "6:10 PM",
+          "description": "Leaves Pierre's General Store and walks back to her house."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives home and stands in the kitchen."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Walks to her room and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home in her room."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Stands behind the counter of her shop."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Closes her shop and walks to her room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves her house and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the Saloon and walks back to her house to go to bed."
+        }
+      ]
+    }
+  ]
+}

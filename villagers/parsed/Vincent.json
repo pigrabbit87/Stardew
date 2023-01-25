@@ -1,0 +1,198 @@
+{
+  "basic": {
+    "Birthday": "Spring 10",
+    "Lives In": "Pelican Town",
+    "Address": "1 Willow Lane",
+    "Family": "Jodi\u00a0(Mother) Kent\u00a0(Father) Sam\u00a0(Brother)",
+    "Marriage": "No",
+    "Clinic Visit": "Spring 11",
+    "Best Gifts": [
+      "Cranberry Candy",
+      "Ginger Ale",
+      "Grape",
+      "Pink Cake",
+      "Snail"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring 11",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up, concerned about having to go to the doctor. \"*sob*... I have to get my shots today.\""
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves home to travel to the clinic for his annual checkup. \"*gulp*... Mommy, don't make me do it.\""
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Continues checkup at the clinic. \"Do I get a lollipop for being so brave?\""
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the clinic to walk home, once there he plays inside."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Winter 16",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up for the day."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves his home and heads outside to the town square."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "11:30 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up for the day."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Moves around inside his home."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Moves around inside his home."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up for the day."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Leaves his home and heads to The Beach."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves The Beach and walks back home."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves his home and walks to the Museum to be tutored by Penny."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the Museum, walks back to Pelican Town."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Walks around Pelican Town."
+        },
+        {
+          "time": "5:40 PM",
+          "description": "Leaves town to go home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Saturday",
+      "schedules": [
+        {
+          "time": "10:10 AM",
+          "description": "Leaves his home and heads outside to Pelican Town."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Heads to the town square."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the town square and walks around Pelican Town."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves town to go home to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up for the day."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves his home and heads outside to the town square."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves town and walks home."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Plays inside his home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    }
+  ]
+}

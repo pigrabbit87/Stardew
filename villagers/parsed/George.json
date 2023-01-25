@@ -1,0 +1,167 @@
+{
+  "basic": {
+    "Birthday": "Fall 24",
+    "Lives In": "Pelican Town",
+    "Address": "1 River Road",
+    "Family": "Evelyn\u00a0(Wife) Alex\u00a0(Grandson)",
+    "Marriage": "No",
+    "Clinic Visit": "The 23rd of each season",
+    "Best Gifts": [
+      "Fried Mushroom",
+      "Leek"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Winter 17",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "At his kitchen table."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Leaves home to attend the Night Market."
+        },
+        {
+          "time": "11:40 PM",
+          "description": "Leaves the Night Market to return home."
+        }
+      ]
+    },
+    {
+      "name": "Tuesday the 23rd (All Seasons)",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, at the kitchen table."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves home for the waiting room of Harvey's Clinic."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Moves to the left exam room inside the Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Clinic to watch TV at home."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    },
+    {
+      "name": "Rain",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "At his kitchen table."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Goes to watch TV again."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves home to sit outside, under the tree left of his house."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns home to watch TV."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    },
+    {
+      "name": "Sunday, Alex's 14-heart event witnessed",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Heads to the back room of the Saloon to watch sports."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Returns home to watch TV."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    },
+    {
+      "name": "Sunday",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home and heads for the Statue of Yoba inside Pierre's home."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the Statue of Yoba and heads home to watch TV."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:30 AM",
+          "description": "At home, watching TV."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "At his kitchen table."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Goes to watch TV again."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to his bedroom for the night."
+        }
+      ]
+    }
+  ]
+}

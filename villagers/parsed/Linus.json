@@ -1,0 +1,241 @@
+{
+  "basic": {
+    "Birthday": "Winter 3",
+    "Lives In": "The Mountain",
+    "Address": "Tent",
+    "Marriage": "No",
+    "Best Gifts": [
+      "Blueberry Tart",
+      "Cactus Fruit",
+      "Coconut",
+      "Dish O' The Sea",
+      "Yam"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Raining",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "9:30 am",
+          "description": "Exits tent, stands behind bush to the left of his tent"
+        },
+        {
+          "time": "10:10 am",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Exits tent, stands under tree left of his tent"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "11:30 pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "6:30 am",
+          "description": "Exits tent, stands behind bush to the left of his tent"
+        },
+        {
+          "time": "7:00 am",
+          "description": "Walks to left of fireplace in front of his tent"
+        },
+        {
+          "time": "9:30 am",
+          "description": "Walks to left side of lake"
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Walks to left of fireplace in front of his tent"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "11:00 pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Raining",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "9:30 am",
+          "description": "Exits tent, stands behind bush to the left of his tent"
+        },
+        {
+          "time": "10:10 am",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Exits tent, stands under tree left of his tent"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "11:30 pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "6:30 am",
+          "description": "Walks to cliff overlooking lake, to right of his tent"
+        },
+        {
+          "time": "9:40 am",
+          "description": "Walks to south of fence, left of lake"
+        },
+        {
+          "time": "1:00 pm",
+          "description": "Walks further south, left of lake"
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Walks to left of fireplace in front of his tent"
+        },
+        {
+          "time": "8:00 pm",
+          "description": "Walks behind the bush to the left of his tent"
+        },
+        {
+          "time": "8:20 pm",
+          "description": "Returns to his tent for the night"
+        }
+      ]
+    },
+    {
+      "name": "Fall Raining",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "9:30 am",
+          "description": "Exits tent, stands behind bush to the left of his tent"
+        },
+        {
+          "time": "10:10 am",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Exits tent, stands under tree left of his tent"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Returns to his tent"
+        },
+        {
+          "time": "11:30 pm",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "7:00 am",
+          "description": "Exits tent, stands behind bush to the left of his tent"
+        },
+        {
+          "time": "7:40 am",
+          "description": "Walks to left of fireplace in front of his tent"
+        },
+        {
+          "time": "9:00 am",
+          "description": "Walks to Spa, stands at right side of building"
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Walks to left side of lake"
+        },
+        {
+          "time": "6:00 pm",
+          "description": "Returns to his tent for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 15",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Exits tent, stands to left of fireplace in front of tent"
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Walks to beach to attend Night Market"
+        },
+        {
+          "time": "11:30 pm",
+          "description": "Returns to his tent for the night"
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:00 am",
+          "description": "Inside his tent"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Exits tent, stands to left of fireplace in front of tent"
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Walks to Spa, stands inside entrance"
+        },
+        {
+          "time": "6:00 pm",
+          "description": "Returns to his tent for the night"
+        }
+      ]
+    }
+  ]
+}

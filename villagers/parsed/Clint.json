@@ -1,0 +1,129 @@
+{
+  "basic": {
+    "Birthday": "Winter 26",
+    "Lives In": "Pelican Town",
+    "Address": "Blacksmith",
+    "Marriage": "No",
+    "Clinic Visit": "Winter 16",
+    "Best Gifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Artichoke Dip",
+      "Emerald",
+      "Fiddlehead Risotto",
+      "Gold Bar",
+      "Iridium Bar",
+      "Jade",
+      "Omni Geode",
+      "Ruby",
+      "Topaz"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Winter 15",
+      "schedules": [
+        {
+          "time": "8:50 AM",
+          "description": "Behind the counter of the Blacksmith."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the Blacksmith to attend the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns to the Blacksmith to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter 16",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Behind the counter of the Blacksmith."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves the Blacksmith to go to the waiting room of Harvey's Clinic."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Moves to the left examination room in the Clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Clinic for The Saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Behind the counter of the Blacksmith."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Moves to work on the anvil."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Friday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "8:50 AM",
+          "description": "Leaves home, heads to the Community Center Boiler Room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the Community Center and heads to The Saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Behind the counter of the Blacksmith."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Moves to work on the anvil."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Heads to The Saloon."
+        },
+        {
+          "time": "8:20 PM",
+          "description": "In the Saloon."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Returns home to sleep."
+        }
+      ]
+    }
+  ]
+}

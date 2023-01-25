@@ -1,0 +1,59 @@
+{
+  "basic": {
+    "Birthday": "Winter 1",
+    "Lives In": "The Sewers",
+    "Address": "Krobus's Shop",
+    "Marriage": "No, but can become a roommate",
+    "Best Gifts": [
+      "Diamond",
+      "Iridium Bar",
+      "Pumpkin",
+      "Void Egg",
+      "Void Mayonnaise",
+      "Wild Horseradish"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Image\n\nName\n\nDescription\n\nQuantity\n\nUnit Price",
+      "schedules": [
+        {
+          "time": "",
+          "description": "Void Egg"
+        },
+        {
+          "time": "",
+          "description": "Void Essence"
+        },
+        {
+          "time": "",
+          "description": "Solar Essence"
+        },
+        {
+          "time": "",
+          "description": "Sign Of The Vessel"
+        },
+        {
+          "time": "",
+          "description": "Monster Fireplace"
+        },
+        {
+          "time": "",
+          "description": "Stardrop"
+        },
+        {
+          "time": "",
+          "description": "Crystal Floor Recipe"
+        },
+        {
+          "time": "",
+          "description": "Wicked Statue Recipe"
+        },
+        {
+          "time": "",
+          "description": "Return Scepter"
+        }
+      ]
+    }
+  ]
+}

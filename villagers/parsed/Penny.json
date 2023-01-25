@@ -1,0 +1,675 @@
+{
+  "basic": {
+    "Birthday": "Fall 2",
+    "Lives In": "Pelican Town",
+    "Address": "Trailer",
+    "Family": "Pam\u00a0(Mother)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Winter 4",
+    "Best Gifts": [
+      "Diamond",
+      "Emerald",
+      "Melon",
+      "Poppy",
+      "Poppyseed Muffin",
+      "Red Plate",
+      "Roots Platter",
+      "Sandfish",
+      "Tom Kha Soup"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Monday, Thursday, Sunday",
+      "schedules": [
+        {
+          "time": "8:10 AM",
+          "description": "Leaves her trailer and goes outside to read near the town graveyard."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Returns to the trailer to wash dishes."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the trailer again to go outside the saloon where she sits on a bench with Maru."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Returns to her trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves her trailer and goes to the museum/library. Jas and Vincent join her there."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the library and stands near the Ice Cream Stand watching over Jas and Vincent."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Continues to Vincent's house and says goodbye."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Walks Jas the rest of the way home and says goodbye."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Returns to her trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her room."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves her trailer to meet up with Jas and Vincent near the town graveyard."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walks Jas and Vincent to the playground north of the plaza and watches them play."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks Jas and Vincent back to town and drops them off in front of Emily and Haley's house."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Returns to her trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Sunday",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Leaves her trailer and walks to the river above JojaMart."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Goes to the garden beside the Community Center and sits inside."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Community Center Garden and returns to the trailer to do dishes."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed in her room in the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday, Thursday",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Wakes up and walks through town to stand by the river behind JojaMart."
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Watching the river behind JojaMart."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Walks back through town and to the community center."
+        },
+        {
+          "time": "2:30 PM",
+          "description": "Sitting on a bench to the right of the community center."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves town and returns to the trailer."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Tuesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves the trailer and walks to the Museum."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "In the Museum."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Pelican Town, outside of the Museum near bridge."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Outside 2 Willow Lane, walking Vincent and Jas home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Wednesday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves the trailer and walks to the Museum."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "In the Museum."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Pelican Town, outside of the Museum near bridge."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Outside 2 Willow Lane, walking Vincent and Jas home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "9:20 AM",
+          "description": "Leaves the trailer and walks to the Museum."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "In the Museum."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Outside of the Museum near bridge."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Outside 2 Willow Lane, Walking Vincent and Jas home."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves her trailer and goes outside near the town graveyard."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "With the kids near the town graveyard."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Walk kids to the playground, left of the community center."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "At the playground, play with kids."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks Jas and Vincent to Emily's house."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Beside Emily's house, talking with Jas and Vincent."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to the trailer."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Fall Sunday, Monday, Thursday",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Wakes up for the day, leaves her trailer and goes outside to read near the town graveyard."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Returns to the trailer to wash dishes."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the trailer again to go outside The Stardrop Saloon where she sits on a bench, with Maru on Sundays and Mondays, alone on Thursdays."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Returns to her trailer for the evening."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves the trailer and walks to the Museum."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "In the Museum. Vincent joins her at 10:30 AM, Jas at 11:00 AM."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Goes outside the Museum, near the river, at the bridge."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Leaves for 2 Willow Lane, walking Vincent and Jas home. Pauses there."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Continues to Marnie's Ranch, walking Jas home for the evening."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Jas at Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives at the trailer, then goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Leaves the trailer to meet Jas and Vincent at the tree west of the graveyard"
+        },
+        {
+          "time": "12:00 PM",
+          "description": "All three leave for the playground."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "At the playground with Jas and Vincent"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the playground and walks to Emily's house with Jas and Vincent"
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Arrives outside Emily's house"
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Jas and Vincent head for home, while Penny goes home to the trailer."
+        },
+        {
+          "time": "8:40 PM",
+          "description": "Arrives at the trailer and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 4th",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up and moves around her trailer."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Walks from her trailer to Harvey's Clinic for her annual checkup."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Continues getting checkup at clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves clinic and goes to sit by the bridge west from JojaMart."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Leaves town and returns to the trailer to do dishes."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed in her room in the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 15",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Trailer is unlocked. Penny is in her bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Moves to the kitchen."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Does some dishes."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Sits on the couch, probably watching TV."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "11:50 PM",
+          "description": "Goes to bed for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Winter Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves the trailer and walks to the Museum."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "In the Museum. Vincent joins her at 10:30 AM, Jas at 11:00 AM."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Goes outside the Museum, near the river, at the bridge."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "Leaves for 2 Willow Lane, walking Vincent and Jas home. Pauses there."
+        },
+        {
+          "time": "5:40 PM",
+          "description": "Continues to Marnie's Ranch, walking Jas home for the evening."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Jas at Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Arrives at the trailer, then goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday",
+      "schedules": [
+        {
+          "time": "2:30 PM",
+          "description": "At the playground with Jas and Vincent."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Walks Jas and Vincent to Emily's house."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Beside Emily's house, talking with Jas and Vincent."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to the trailer with Jas."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Arrives at the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday, Thursday, Monday (Community Center Restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up and moves around her trailer."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her trailer and walks to the community center to read."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Continues moving around the community center."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the community center and returns to the trailer to do dishes."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed in her room in the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Winter Sunday, Thursday, Monday (Community Center not yet restored)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up and moves around her trailer."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Leaves her trailer and walks to the tree west of the graveyard to read."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the Museum and returns to the trailer to do dishes."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed in her room in the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Raining (Alternative A)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Trailer is unlocked. Penny is in her bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Moves to the kitchen."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Does some dishes."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Sits on the couch, probably watching TV."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Returns to her bedroom, reading by the bookshelf."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Raining (Alternative B)",
+      "schedules": [
+        {
+          "time": "8:20 AM",
+          "description": "Leaves the trailer and walks to the Museum to sit outside."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Goes inside the Museum to look at the bookshelves."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Museum and returns to the trailer to watch some television."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Moves over to the sink in the trailer to do some dishes."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Day 9 & Day 23 (With less than 6 hearts with Sam)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up and walks around her trailer."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Walks from the trailer out to town and sits."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns from town to the trailer and does some dishes."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Goes to bed in her room in the trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Day 9 & Day 23 (with at least 6 hearts with Sam)",
+      "schedules": [
+        {
+          "time": "8:10 AM",
+          "description": "Leaves her trailer and goes outside to read near the town graveyard."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Returns to the trailer to wash dishes."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the trailer again to go outside the saloon where she sits on a bench with Maru."
+        },
+        {
+          "time": "6:40 PM",
+          "description": "Returns to her trailer for the evening."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves the farmhouse and heads to Pierre's General Store."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Leaves Pierre's.  In town, reading."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Sitting in town."
+        },
+        {
+          "time": "6:10 PM",
+          "description": "Leaves town to return home to the farm."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    },
+    {
+      "name": "Marriage Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "8:30 AM",
+          "description": "Leaves the the farm and walks to the Museum."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the Museum and walks with Vincent and Jas to town."
+        },
+        {
+          "time": "4:20 PM",
+          "description": "In front of Haley and Emily's house while walking Vincent and Jas home."
+        },
+        {
+          "time": "5:50 PM",
+          "description": "Walks Jas home to Marnie's Ranch in the woods west of town."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves Marnie's Ranch and returns to home for the evening."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Arrives back at the Farmhouse."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed"
+        }
+      ]
+    }
+  ]
+}

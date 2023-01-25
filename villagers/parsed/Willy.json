@@ -1,0 +1,188 @@
+{
+  "basic": {
+    "Birthday": "Summer 24",
+    "Lives In": "The Beach",
+    "Address": "Fish Shop",
+    "Marriage": "No",
+    "Clinic Visit": "Spring 9",
+    "Best Gifts": [
+      "Catfish",
+      "Diamond",
+      "Iridium Bar",
+      "Mead",
+      "Octopus",
+      "Pumpkin",
+      "Sea Cucumber",
+      "Sturgeon"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring 9",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, goes fishing outside his fish shop."
+        },
+        {
+          "time": "8:50 AM",
+          "description": "Goes back inside fish shop from the beach."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Starts working at the counter in the fish shop, goods are available for sale.\"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\""
+        },
+        {
+          "time": "10:10 AM",
+          "description": "Leaves the fish shop, walks over to the Harvey's Clinic.\"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\""
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Continues checkup at the Harvey's Clinic.\"Yowch! That hurt, Doc!\""
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the Harvey's Clinic, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        },
+        {
+          "time": "11:20 PM",
+          "description": "Leaves the saloon to head home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Winter 15, 16, and 17",
+      "schedules": [
+        {
+          "time": "4:30 PM",
+          "description": "At The Stardrop Saloon."
+        },
+        {
+          "time": "12:20 AM",
+          "description": "Returns to the fish shop."
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, goes fishing outside his fish shop."
+        },
+        {
+          "time": "8:50 AM",
+          "description": "Goes back inside fish shop from the beach."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Starts working at the counter in the fish shop, goods are available for sale."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the fish shop, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        },
+        {
+          "time": "11:20 PM",
+          "description": "Leaves the saloon to head home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Saturday (Day off)",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, walks through town to go fishing at the river outside Leah's cottage."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the river and heads into Pelican Town for more river fishing."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Walks over to the saloon.\"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.\""
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Leaves the saloon to head home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Winter",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, goes fishing outside his fish shop."
+        },
+        {
+          "time": "8:50 AM",
+          "description": "Goes back inside fish shop from the beach."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Starts working at the counter in the fish shop, goods are available for sale."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the fish shop, walks over to the saloon.\"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+        },
+        {
+          "time": "11:20 PM",
+          "description": "Leaves the saloon to head home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Friday",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, goes fishing outside his fish shop."
+        },
+        {
+          "time": "8:50 AM",
+          "description": "Goes back inside fish shop from the beach."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Starts working at the counter in the fish shop, goods are available for sale."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the fish shop, walks over to the saloon.\"Handling salty fish all day makes me real thirsty.\""
+        },
+        {
+          "time": "11:20 PM",
+          "description": "Leaves the saloon to head home for the night."
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "6:10 AM",
+          "description": "Wakes up for the day, goes fishing outside his fish shop."
+        },
+        {
+          "time": "8:50 AM",
+          "description": "Goes back inside fish shop from the beach."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Starts working at the counter in the fish shop, goods are available for sale."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the fish shop, goes out to fish on the beach."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Leaves the beach to head home for the night."
+        }
+      ]
+    }
+  ]
+}

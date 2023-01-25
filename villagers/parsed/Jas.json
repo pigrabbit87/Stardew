@@ -1,0 +1,209 @@
+{
+  "basic": {
+    "Birthday": "Summer 4",
+    "Lives In": "Cindersap Forest",
+    "Address": "Marnie's Ranch",
+    "Family": "Marnie\u00a0(Aunt) Shane\u00a0(Godfather)",
+    "Marriage": "No",
+    "Clinic Visit": "Winter 18",
+    "Best Gifts": [
+      "Fairy Rose",
+      "Pink Cake",
+      "Plum Pudding"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Tuesday the 9th & Tuesday the 23rdif not at 6 hearts with both Penny and Sam",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves home to stand under the large tree west of Marnie's Ranch and jump rope"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Returns home, reads in the entryway of the shop"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Goes to her bedroom"
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Winter 15",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves home to stand under the large tree west of Marnie's Ranch and jump rope"
+        },
+        {
+          "time": "2:50 pm",
+          "description": "Leaves the forest to attend the Night Market"
+        },
+        {
+          "time": "11:00 pm",
+          "description": "Leaves the Night Market to return home"
+        }
+      ]
+    },
+    {
+      "name": "Winter 18",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "10:30 am",
+          "description": "Leaves home to go to Harvey's Clinic"
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves to exam room inside Clinic"
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves Clinic, reads in the entryway of Marnie's Ranch"
+        },
+        {
+          "time": "8:00 pm",
+          "description": "Goes to her room to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Raining",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Stands in the entryway of the shop"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Moves to the fireplace room to read"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Goes to her bedroom"
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Tuesday, Wednesday, Friday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Leaves home to go to the Museum"
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Leaves Museum, stands at river southwest of Museum"
+        },
+        {
+          "time": "4:20 pm",
+          "description": "Leaves riverbank, walks to path south of Emily and Haley's house"
+        },
+        {
+          "time": "5:50 pm",
+          "description": "Leaves town and walks home to go to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Saturday",
+      "schedules": [
+        {
+          "time": "10:00 am",
+          "description": "Leaves home, walks to town, stands southwest of the large tree that's east of 2 Willow Lane"
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to playground west of Community Center, jumps rope"
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves playground, stands southeast of 2 Willow Lane"
+        },
+        {
+          "time": "8:00 pm",
+          "description": "Walks home and goes to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Stands outside ranch looking at cow pen"
+        },
+        {
+          "time": "1:20 pm",
+          "description": "Walks to the Beach to jump rope"
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves beach to walk home, reads in the entryway of Marnie's Ranch"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Goes to her bedroom"
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to sleep"
+        }
+      ]
+    },
+    {
+      "name": "Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "In her bedroom"
+        },
+        {
+          "time": "11:00 am",
+          "description": "Leaves home to stand under the large tree west of Marnie's Ranch and jump rope"
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Returns home, reads in the entryway of the shop"
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Goes to her bedroom"
+        },
+        {
+          "time": "9:00 pm",
+          "description": "Goes to sleep"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "basic": {
+    "Birthday": "Winter 23",
+    "Lives In": "Cindersap Forest",
+    "Address": "Leah's Cottage",
+    "Marriage": "Yes",
+    "Clinic Visit": "Spring 16",
+    "Best Gifts": [
+      "Goat Cheese",
+      "Poppyseed Muffin",
+      "Salad",
+      "Stir Fry",
+      "Truffle",
+      "Vegetable Medley",
+      "Wine"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Spring 16th",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "10:30 am",
+          "description": "Goes to the waiting room of Harvey's Clinic."
+        },
+        {
+          "time": "1:30 pm",
+          "description": "Moves from the waiting room to the left exam room in the Clinic."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves the Clinic and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Spring Rainy day, Friday, and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Spring Monday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "11:00 am",
+          "description": "Goes to shop at Pierre's General Store."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the store to return home and stand in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Spring Normal Schedule",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to the edge of the river near the island southwest of her cottage."
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Walks to the end of the pier over the forest pond and draws."
+        },
+        {
+          "time": "6:30 pm",
+          "description": "Walks to the west side of the forest pond."
+        },
+        {
+          "time": "7:30 pm",
+          "description": "Walks back to her cottage and stands in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer Rainy day, Friday, and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "11:00 am",
+          "description": "Goes to shop at Pierre's General Store."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the store to return home and stands in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer Normal Schedule if the beach bridge has been repaired",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Leaves her cottage to draw at the tidal pools at the beach."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Leaves the beach to return home and stands in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Summer Normal Schedule if the beach bridge has not been repaired",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Leaves her cottage to draw at the beach."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Leaves the beach to return home and stands in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Fall Rainy day, Friday, and Saturday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Fall Monday",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "11:00 am",
+          "description": "Goes to shop at Pierre's General Store."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the store to return home and stand in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Fall Normal Schedule",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Walks to the east side of the river in town, above the Blacksmith."
+        },
+        {
+          "time": "7:00 pm",
+          "description": "Leaves town to return home and stand in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 15th",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage to attend the Night Market."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Night Market to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Winter Monday if it is not raining",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "11:00 am",
+          "description": "Goes to shop at Pierre's General Store."
+        },
+        {
+          "time": "5:00 pm",
+          "description": "Leaves the store to return home and stand in front of her bookcase."
+        },
+        {
+          "time": "10:00 pm",
+          "description": "Stands at the table in her house."
+        },
+        {
+          "time": "12:00 am",
+          "description": "Goes to bed for the night."
+        }
+      ]
+    },
+    {
+      "name": "Winter Normal Schedule",
+      "schedules": [
+        {
+          "time": "9:00 am",
+          "description": "Sculpts in her cottage."
+        },
+        {
+          "time": "12:00 pm",
+          "description": "Moves to her easel to paint."
+        },
+        {
+          "time": "2:00 pm",
+          "description": "Stands in front of the bookcase in her cottage."
+        },
+        {
+          "time": "4:00 pm",
+          "description": "Leaves her cottage and walks to The Stardrop Saloon."
+        },
+        {
+          "time": "11:40 pm",
+          "description": "Leaves the Saloon to return home and sleep."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "8:30 am",
+          "description": "Leaves the farmhouse to walk to the bridge near the small island southwest of her cottage."
+        },
+        {
+          "time": "3:00 pm",
+          "description": "Stands outside of her cottage."
+        },
+        {
+          "time": "5:30 pm",
+          "description": "Leaves the forest to return home to the farm."
+        }
+      ]
+    }
+  ]
+}

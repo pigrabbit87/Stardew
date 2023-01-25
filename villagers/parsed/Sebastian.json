@@ -1,0 +1,1195 @@
+{
+  "basic": {
+    "Birthday": "Winter 10",
+    "Lives In": "The Mountain",
+    "Address": "24 Mountain Road",
+    "Family": "Robin\u00a0(Mother) Maru\u00a0(Half-Sister) Demetrius\u00a0(Step-Father)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Summer 4",
+    "Best Gifts": [
+      "Frozen Tear",
+      "Obsidian",
+      "Pumpkin Soup",
+      "Sashimi",
+      "Void Egg"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "In his room, standing by couch."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Leaving his room to go to the kitchen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring 11th & 25th (6+ hearts with Sebastian)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Spring Rainy day (option 1)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and leaves house to go to the beach."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing at the end of long pier to the left of the fish shop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the pier to go home."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Rainy day (option 2)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving house to go to the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "At the Saloon, standing by red sofa in arcade."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday (After unlocking railroad)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaving home to go smoke by train station."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Smoking by the train station."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Standing east of train station, by tunnel."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Standing west of train station, by tunnel."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his room to go play pool with Sam at the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In the Saloon, playing pool with Sam."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves house to go to Sam's house."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "In front of Haley and Emily's house with Sam."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Follows Sam to his room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "In Sam's room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Sam's house with Sam and goes to the river."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Smoking by the river outside Sam's house with him."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Going home from in front of Sam's house."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Summer Summer 4",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his room, by bookcase."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaving house to go to the clinic."
+        },
+        {
+          "time": "11:50 AM",
+          "description": "In the clinic's waiting room."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "In the clinic's examination room."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives at his room and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "In his room, standing by couch."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Leaving his room to go to the kitchen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer 11th & 25th (6+ hearts with Sebastian)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Summer Rainy day (option 1)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and leaves house to go to the beach."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing at the end of long pier to the left of the fish shop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the pier to go home."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Rainy day (option 2)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving house to go to the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "At the Saloon, standing by red sofa in arcade."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Thursday (After unlocking railroad)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaving home to go smoke by train station."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Smoking by the train station."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Standing east of train station, by tunnel."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Standing west of train station, by tunnel."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his room to go play pool with Sam at the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In the Saloon, playing pool with Sam."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves house to go to Sam's house."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "In front of Haley and Emily's house with Sam."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Follows Sam to his room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "In Sam's room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Sam's house with Sam and goes to the river."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Smoking by the river outside Sam's house with him."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Going home from in front of Sam's house."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Fall 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "In his room, standing by couch."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Leaving his room to go to the kitchen."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall 11th & 25th (6+ hearts with Sebastian as well as when raining)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Fall Rainy day (option 1)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and leaves house to go to the beach."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing at the end of long pier to the left of the fish shop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the pier to go home."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Rainy day (option 2)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving house to go to the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "At the Saloon, standing by red sofa in arcade."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Thursday (After unlocking railroad)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaving home to go smoke by train station."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Smoking by the train station."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Standing east of train station, by tunnel."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Standing west of train station, by tunnel."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his room to go play pool with Sam at the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In the Saloon, playing pool with Sam."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves house to go to Sam's house."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "In front of Haley and Emily's house with Sam."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Follows Sam to his room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "In Sam's room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Sam's house with Sam and goes to the river."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Smoking by the river outside Sam's house with him."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Going home from in front of Sam's house."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Leaves home and walks to lake next to his house."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Goes to the part of the lake outside the mines entrance."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves the mines entrance and heads to the other side of the lake."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Is smoking at the edge of the lake close to the bridge."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Returns home to his kitchen."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Leaves his kitchen."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Leaves his computer and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Winter 16",
+      "schedules": [
+        {
+          "time": "10:30 AM",
+          "description": "Wakes up and goes to his computer"
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves room and goes to kitchen"
+        },
+        {
+          "time": "3:40 PM",
+          "description": "Goes back to room and returns to his computer"
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves his home to attend Night Market"
+        },
+        {
+          "time": "11:30 PM",
+          "description": "Leaves Night Market to return home"
+        }
+      ]
+    },
+    {
+      "name": "Winter 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "In his room, standing by couch."
+        },
+        {
+          "time": "5:30 PM",
+          "description": "Leaving his room to go to the kitchen."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter 11th & 25th (6+ hearts with Sebastian)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Winter Rainy day (option 1)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and leaves house to go to the beach."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Standing at the end of long pier to the left of the fish shop."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Leaves the pier to go home."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Rainy day (option 2)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaving house to go to the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "At the Saloon, standing by red sofa in arcade."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Thursday (After unlocking railroad)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaving home to go smoke by train station."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Smoking by the train station."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Standing east of train station, by tunnel."
+        },
+        {
+          "time": "8:10 PM",
+          "description": "Standing west of train station, by tunnel."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Friday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his room to go play pool with Sam at the Saloon."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "In the Saloon, playing pool with Sam."
+        },
+        {
+          "time": "9:10 PM",
+          "description": "Heads home."
+        },
+        {
+          "time": "11:10 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Saturday",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Leaves house to go to Sam's house."
+        },
+        {
+          "time": "11:30 AM",
+          "description": "In front of Haley and Emily's house with Sam."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Follows Sam to his room."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "In Sam's room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves Sam's house with Sam and goes to the river."
+        },
+        {
+          "time": "6:20 PM",
+          "description": "Smoking by the river outside Sam's house with him."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Going home from in front of Sam's house."
+        },
+        {
+          "time": "9:40 PM",
+          "description": "Arrives home."
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In his bed."
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Gets out of bed and moves to his computer."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves his computer and goes to the kitchen."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Leaves the kitchen to go back to his room."
+        },
+        {
+          "time": "4:10 PM",
+          "description": "On his computer."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Leaves home and walks to lake next to his house to smoke."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Smoking by the lake next to his house."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes back to his house."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Leaves to go to the mountain"
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Walks through the town square"
+        },
+        {
+          "time": "10:30 AM",
+          "description": "Arrives at his old spot by the mountain lake."
+        },
+        {
+          "time": "1:00 PM",
+          "description": "Leaves to go visit Robin."
+        },
+        {
+          "time": "5:20 PM",
+          "description": "Leaves the mountain and heads home."
+        },
+        {
+          "time": "7:20 PM",
+          "description": "Arrives home."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Friday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "9:00 AM",
+          "description": "Leaves to go the beach."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Standing at the end of the long pier to the left of the fish shop."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves to go to The Stardrop Saloon."
+        },
+        {
+          "time": "4:30 PM",
+          "description": "Arrives at the saloon, playing at the pool table with Sam."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Leaves to go home."
+        },
+        {
+          "time": "10:50 PM",
+          "description": "Arrives home."
+        }
+      ]
+    }
+  ]
+}

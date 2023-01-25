@@ -1,0 +1,641 @@
+{
+  "basic": {
+    "Birthday": "Summer 17",
+    "Lives In": "Pelican Town",
+    "Address": "1 Willow Lane",
+    "Family": "Kent\u00a0(Father) Jodi\u00a0(Mother) Vincent\u00a0(Brother)",
+    "Marriage": "Yes",
+    "Clinic Visit": "Fall 11",
+    "Best Gifts": [
+      "Cactus Fruit",
+      "Maple Bar",
+      "Pizza",
+      "Tigerseye"
+    ]
+  },
+  "schedule": [
+    {
+      "name": "Spring Monday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in the middle of his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and walks to JojaMart (or Museum if Community Center is restored)."
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart (or Museum if Community Center is restored) and starts work."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Finshes work at JojaMart (or Museum if Community Center is restored) and walks home."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives in his bedroom and stands in front of his bookshelf."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Tuesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in the middle of his bedroom."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays his guitar in his bedroom."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves house and stands near Mayor's Manor by the river."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Heads back home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in the middle of his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and walks to JojaMart (or Museum if Community Center is restored)."
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart (or Museum if Community Center is restored) and starts work."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Finshes work at JojaMart (or Museum if Community Center is restored) and walks home."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives in his bedroom and stands in front of his bookshelf."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Thursday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in front of his dresser."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Leaves his bedroom and walks to the bush southeast of Lewis' house."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Stands in front of the bush to the southeast of Lewis' house."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Starts walking home."
+        },
+        {
+          "time": "7:50 PM",
+          "description": "Arrives in his bedroom and stands in front of his desk."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Friday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and plays guitar inside his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and skateboards outside of his house."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Walks to the Stardrop Saloon."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Arrives at the Stardrop Saloon and plays pool near the arcade."
+        },
+        {
+          "time": "9:20 PM",
+          "description": "Leaves the Stardrop Saloon and walks home."
+        },
+        {
+          "time": "10:20 PM",
+          "description": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "name": "Spring Regular Schedule",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Leaves his bedroom, walks into town, and stands near Lewis' house by the river."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "Returns home from town."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Spring Rainy day",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up and stands in front of his dresser."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and walks to the bridge near the Museum."
+        },
+        {
+          "time": "12:00 PM",
+          "description": "Arrives at the bridge near the Museum."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the bridge near the Museum and walks to the tree in front of Emily and Haley's house."
+        },
+        {
+          "time": "4:40 PM",
+          "description": "Arrives at the tree outside Emily and Haley's house and plays his handheld video game."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Walks home."
+        },
+        {
+          "time": "7:30 PM",
+          "description": "Arrives in his bedroom and stands in front of his bookshelf."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Monday, Wednesday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in the middle of his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and walks to JojaMart (or Museum if Community Center is restored)."
+        },
+        {
+          "time": "12:50 PM",
+          "description": "Arrives at JojaMart (or Museum if Community Center is restored) and starts work."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Finishes work at JojaMart (or Museum if Community Center is restored) and walks home."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives in his bedroom and stands in front of his bookshelf."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Saturday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up and stands in the middle of his bedroom."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Stands with Sebastian in his room."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves his bedroom with Sebastian and stands by the river in front of  his house."
+        },
+        {
+          "time": "7:50 PM",
+          "description": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Birthday (JojaMart open, And Raining), Rainy Day",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Starts playing his guitar in his room."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves bedroom, stands in kitchen and plays his handheld video game."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads back to his bedroom, moves around."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Summer Regular Schedule",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "1:40 PM",
+          "description": "Leaves his bedroom and walks to the beach by the firepit with his brother Vincent."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Returns home from the beach."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Fall 11",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day inside his bedroom. \"I gotta go visit Uncle Doctor today... Great.\""
+        },
+        {
+          "time": "11:30 AM",
+          "description": "Walks to the clinic for his annual checkup, plays his handheld video game in the waiting room."
+        },
+        {
+          "time": "1:30 PM",
+          "description": "Gets medical checkup at the clinic. \"I'm a healthy boy, doc. Can I go now? This is boring.\""
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the clinic to walk into town. \"I just got out of the doctor's office. Completely healthy and vigorous, just as I expected.\""
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Returns to his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Fall Regular Schedule",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "1:20 PM",
+          "description": "Leaves the his bedroom walks to The Forest southwest of Leah's Cottage."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Returns home from The Forest."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Winter Regular Schedule",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "1:20 PM",
+          "description": "Leaves his bedroom and walks to the Stardrop Saloon."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Returns home from the Stardrop Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Day 9 & Day 23 (If less than 6 hearts with Penny)",
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the his bedroom walks into town."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Continues to walk around town, plays his handheld video game."
+        },
+        {
+          "time": "7:00 PM",
+          "description": "Returns home from town."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Winter 17",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "10:40 AM",
+          "description": "Plays guitar inside his bedroom."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Attends the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "description": "Goes into his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Raining - Random choice #1",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, stands in front of the dresser in his room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Plays guitar inside his room."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Plays his handheld video game in the kitchen inside his house."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Returns to his bedroom. and stands in front of his dresser."
+        },
+        {
+          "time": "6:30 PM",
+          "description": "At his desk inside his bedroom."
+        },
+        {
+          "time": "8:00 PM",
+          "description": "Goes to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Raining - Random choice #2",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, moves around his room."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Moves around inside his home."
+        },
+        {
+          "time": "2:00 PM",
+          "description": "Leaves the his bedroom walks to The Stardrop Saloon. \"Nothing like an ice cold Joja Cola on a sopping wet day, huh? Just kidding. Hehehe.\""
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Leaves The Stardrop Saloon and returns to his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Saturday",
+      "schedules": [
+        {
+          "time": "8:00 AM",
+          "description": "Wakes up for the day inside his bedroom and walks just outside to stand by the river in front of Haley and Emily's house."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Walks to a nearby bush and plays his handheld video game in town."
+        },
+        {
+          "time": "12:30 PM",
+          "description": "Leaves town, goes to his bedroom with Sebastian to practice guitar."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Hangs out in his room with Sebastian."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Leaves his home to walk to the river in front of his house with Sebastian."
+        },
+        {
+          "time": "7:40 PM",
+          "description": "Returns to his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Monday & Wednesday, Community Center Restored",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day inside his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves the his bedroom walks to the Museum."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Leaves the Museum, and heads home."
+        },
+        {
+          "time": "6:00 PM",
+          "description": "Arrives home, stands in his bedroom in front of bookshelf."
+        },
+        {
+          "time": "9:30 PM",
+          "description": "In his bedroom in bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations Friday",
+      "schedules": [
+        {
+          "time": "10:00 AM",
+          "description": "Wakes up for the day, plays guitar inside his bedroom."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves his bedroom and walks into town to go skateboarding."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Walks to The Stardrop Saloon to play pool near the arcade."
+        },
+        {
+          "time": "9:20 PM",
+          "description": "Leaves the Stardrop Saloon and walks home to his bedroom to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Monday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "8:00 AM",
+          "description": "Leaves home and heads for Pelican Town."
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Arrives at 1 Willow Lane and stands in the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Moves to living room."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Leaves 1 Willow Lane to return home."
+        },
+        {
+          "time": "4:00 PM",
+          "description": "Arrives at the farmhouse."
+        },
+        {
+          "time": "10:00 PM",
+          "description": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "name": "Marriage Friday",
+      "schedules": [
+        {
+          "time": "6:00 AM",
+          "description": "At home."
+        },
+        {
+          "time": "8:00 AM",
+          "description": "Leaves home and heads for Pelican Town."
+        },
+        {
+          "time": "9:30 AM",
+          "description": "Arrives at 1 Willow Lane and stands in the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "description": "Leaves house."
+        },
+        {
+          "time": "11:50 AM",
+          "description": "Skateboarding south of the Stardrop Saloon, by the benches."
+        },
+        {
+          "time": "3:00 PM",
+          "description": "Heads into the Stardrop Saloon."
+        },
+        {
+          "time": "3:30 PM",
+          "description": "Playing pool in the Stardrop Saloon."
+        },
+        {
+          "time": "9:00 PM",
+          "description": "Leaves the Saloon to return home."
+        },
+        {
+          "time": "11:00 PM",
+          "description": "Arrives at the farmhouse."
+        }
+      ]
+    }
+  ]
+}
