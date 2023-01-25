@@ -20,6 +20,19 @@
   "schedule": [
     {
       "name": "Spring Monday, Thursday, Saturday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -57,6 +70,17 @@
     },
     {
       "name": "Spring Tuesday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -106,6 +130,18 @@
     },
     {
       "name": "Spring Wednesday, Friday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -139,6 +175,17 @@
     },
     {
       "name": "Spring Sunday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -164,6 +211,19 @@
     },
     {
       "name": "Summer Monday, Thursday, Saturday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -201,6 +261,17 @@
     },
     {
       "name": "Summer Tuesday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -250,6 +321,18 @@
     },
     {
       "name": "Summer Wednesday, Friday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -283,6 +366,17 @@
     },
     {
       "name": "Summer Sunday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -308,6 +402,19 @@
     },
     {
       "name": "Fall Monday, Thursday, Saturday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -345,6 +452,17 @@
     },
     {
       "name": "Fall Tuesday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -394,6 +512,18 @@
     },
     {
       "name": "Fall Wednesday, Friday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -427,6 +557,17 @@
     },
     {
       "name": "Fall Sunday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -452,6 +593,19 @@
     },
     {
       "name": "Winter Monday, Thursday, Saturday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -489,6 +643,17 @@
     },
     {
       "name": "Winter Tuesday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -538,6 +703,18 @@
     },
     {
       "name": "Winter Wednesday, Friday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -571,6 +748,17 @@
     },
     {
       "name": "Winter Sunday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -596,6 +784,18 @@
     },
     {
       "name": "Deviations Wednesday, Friday (Community Center Restored)",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -621,6 +821,17 @@
     },
     {
       "name": "Deviations Saturday, Community Center Restored",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -642,6 +853,17 @@
     },
     {
       "name": "Deviations Winter 17th",
+      "season": "winter",
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        17
+      ],
       "schedules": [
         {
           "time": "9:00 AM",

@@ -21,6 +21,15 @@
   "schedule": [
     {
       "name": "Fall 15",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -38,6 +47,15 @@
     },
     {
       "name": "Winter 11",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -63,6 +81,15 @@
     },
     {
       "name": "Winter 15",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -84,6 +111,15 @@
     },
     {
       "name": "Raining",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -105,6 +141,17 @@
     },
     {
       "name": "Tuesday",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -130,6 +177,17 @@
     },
     {
       "name": "Friday, Community Center restored",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -151,6 +209,15 @@
     },
     {
       "name": "Regular Schedule",
+      "season": null,
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",

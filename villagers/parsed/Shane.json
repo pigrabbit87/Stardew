@@ -15,6 +15,18 @@
   "schedule": [
     {
       "name": "Spring Monday - Friday (Community Center Not Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:10 AM",
@@ -32,6 +44,15 @@
     },
     {
       "name": "Spring Raining (Community Center Not Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:10 AM",
@@ -49,6 +70,17 @@
     },
     {
       "name": "Spring Saturday (Community Center Not Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -70,6 +102,17 @@
     },
     {
       "name": "Spring Sunday (Community Center Not Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "All Day",
@@ -79,6 +122,18 @@
     },
     {
       "name": "Spring Monday - Friday (Community Center Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -104,6 +159,17 @@
     },
     {
       "name": "Spring Saturday (Community Center Restored)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -125,6 +191,18 @@
     },
     {
       "name": "Summer Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:10 AM",
@@ -142,6 +220,17 @@
     },
     {
       "name": "Summer Saturday (Community Center Not Restored)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -163,6 +252,17 @@
     },
     {
       "name": "Summer Sunday (Community Center Not Restored)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "12:30 PM",
@@ -180,6 +280,18 @@
     },
     {
       "name": "Summer Monday - Friday (Community Center Restored)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -205,6 +317,17 @@
     },
     {
       "name": "Summer Saturday (Community Center Restored)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -226,6 +349,18 @@
     },
     {
       "name": "Fall Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:10 AM",
@@ -243,6 +378,17 @@
     },
     {
       "name": "Fall Saturday (Community Center Not Restored)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -264,6 +410,17 @@
     },
     {
       "name": "Fall Sunday (Community Center Not Restored)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -277,6 +434,18 @@
     },
     {
       "name": "Fall Monday - Friday (Community Center Restored)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -302,6 +471,17 @@
     },
     {
       "name": "Fall Saturday (Community Center Restored)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -323,6 +503,15 @@
     },
     {
       "name": "Winter Winter 15\nIf JojaMart is still open, Shane will not attend work on Winter 15.",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:00 AM",
@@ -344,6 +533,18 @@
     },
     {
       "name": "Winter Monday - Friday (Community Center Not Restored)\nRaining (Community Center Not Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:10 AM",
@@ -361,6 +562,17 @@
     },
     {
       "name": "Winter Saturday (Community Center Not Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -382,6 +594,17 @@
     },
     {
       "name": "Winter Sunday (Community Center Not Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -395,6 +618,17 @@
     },
     {
       "name": "Winter Sunday (Community Center Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "1:10 PM",
@@ -412,6 +646,18 @@
     },
     {
       "name": "Winter Monday - Friday (Community Center Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -437,6 +683,17 @@
     },
     {
       "name": "Winter Saturday (Community Center Restored)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",

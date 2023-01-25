@@ -14,6 +14,15 @@
   "schedule": [
     {
       "name": "Spring Rainy day",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -43,6 +52,19 @@
     },
     {
       "name": "Spring Wednesday If the player has less than 6 hearts with Haley",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "haley"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -72,6 +94,15 @@
     },
     {
       "name": "Spring Regular Schedule",
+      "season": "spring",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -101,6 +132,19 @@
     },
     {
       "name": "Summer Tuesday the 16th",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [
+        16
+      ],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -126,6 +170,15 @@
     },
     {
       "name": "Summer Rainy day",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -155,6 +208,19 @@
     },
     {
       "name": "Summer Wednesday If the player has less than 6 hearts with Haley",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "haley"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -184,6 +250,15 @@
     },
     {
       "name": "Summer Regular Schedule",
+      "season": "summer",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "7:50 AM",
@@ -213,6 +288,15 @@
     },
     {
       "name": "Fall Rainy day",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -242,6 +326,19 @@
     },
     {
       "name": "Fall Wednesday If the player has less than 6 hearts with Haley",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "haley"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -271,6 +368,15 @@
     },
     {
       "name": "Fall Regular Schedule",
+      "season": "fall",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -300,6 +406,17 @@
     },
     {
       "name": "Winter Wednesday, Winter 17",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [17],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -317,6 +434,19 @@
     },
     {
       "name": "Winter Wednesday If the player has less than 6 hearts with Haley",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "haley"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -346,6 +476,15 @@
     },
     {
       "name": "Winter Regular Schedule",
+      "season": "winter",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",

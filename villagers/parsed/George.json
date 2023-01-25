@@ -14,6 +14,15 @@
   "schedule": [
     {
       "name": "Winter 17",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -35,6 +44,17 @@
     },
     {
       "name": "Tuesday the 23rd (All Seasons)",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -60,6 +80,15 @@
     },
     {
       "name": "Rain",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -81,6 +110,17 @@
     },
     {
       "name": "Summer Friday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -102,6 +142,17 @@
     },
     {
       "name": "Sunday, Alex's 14-heart event witnessed",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -123,6 +174,17 @@
     },
     {
       "name": "Sunday",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",
@@ -144,6 +206,15 @@
     },
     {
       "name": "Regular Schedule",
+      "season": null,
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "6:30 AM",

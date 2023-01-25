@@ -17,6 +17,15 @@
   "schedule": [
     {
       "name": "Spring Raining",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "All day",
@@ -26,6 +35,17 @@
     },
     {
       "name": "Spring Thursday\nFriday if the player has 6+ hearts with Leah",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -43,6 +63,20 @@
     },
     {
       "name": "Spring Friday and Sunday If the player has less than 6 hearts with Leah",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -64,6 +98,15 @@
     },
     {
       "name": "Spring Regular Schedule",
+      "season": "spring",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -89,6 +132,19 @@
     },
     {
       "name": "Summer Tuesday the 9th",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [
+        9
+      ],
       "schedules": [
         {
           "time": "10:30 am",
@@ -106,6 +162,15 @@
     },
     {
       "name": "Summer Raining",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "All day",
@@ -115,6 +180,17 @@
     },
     {
       "name": "Summer Thursday\nFriday if the player has 6+ hearts with Leah",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -132,6 +208,20 @@
     },
     {
       "name": "Summer Friday and Sunday If the player has less than 6 hearts with Leah",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -153,6 +243,15 @@
     },
     {
       "name": "Summer Regular Schedule",
+      "season": "summer",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -174,6 +273,15 @@
     },
     {
       "name": "Fall Raining",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "All day",
@@ -183,6 +291,17 @@
     },
     {
       "name": "Fall Thursday\nFriday if the player has 6+ hearts with Leah",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -200,6 +319,20 @@
     },
     {
       "name": "Fall Friday and Sunday If the player has less than 6 hearts with Leah",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -221,6 +354,15 @@
     },
     {
       "name": "Fall Regular Schedule",
+      "season": "fall",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -246,6 +388,15 @@
     },
     {
       "name": "Winter RainingNote that this is only possible by using a Rain Totem.",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "All day",
@@ -255,6 +406,19 @@
     },
     {
       "name": "Winter Wednesday the 17th",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [
+        17
+      ],
       "schedules": [
         {
           "time": "8:00 am",
@@ -276,6 +440,17 @@
     },
     {
       "name": "Winter Thursday\nFriday if the player has 6+ hearts with Leah",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -293,6 +468,20 @@
     },
     {
       "name": "Winter Friday and Sunday If the player has less than 6 hearts with Leah",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "leah"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -314,6 +503,15 @@
     },
     {
       "name": "Winter Regular Schedule",
+      "season": "winter",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",

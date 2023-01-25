@@ -19,6 +19,15 @@
   "schedule": [
     {
       "name": "Spring Spring 4",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [4],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -44,6 +53,20 @@
     },
     {
       "name": "Spring Monday, Tuesday, Thursday and Saturday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -77,6 +100,17 @@
     },
     {
       "name": "Spring Wednesday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:00 AM",
@@ -106,6 +140,17 @@
     },
     {
       "name": "Spring Friday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -135,6 +180,17 @@
     },
     {
       "name": "Spring Sunday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -164,6 +220,20 @@
     },
     {
       "name": "Summer Monday, Tuesday, Thursday and Saturday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -205,6 +275,17 @@
     },
     {
       "name": "Summer Wednesday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:00 AM",
@@ -234,6 +315,17 @@
     },
     {
       "name": "Summer Friday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -263,6 +355,17 @@
     },
     {
       "name": "Summer Sunday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:30 AM",
@@ -288,6 +391,17 @@
     },
     {
       "name": "Fall Monday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -313,6 +427,19 @@
     },
     {
       "name": "Fall Tuesday, Thursday and Saturday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -346,6 +473,17 @@
     },
     {
       "name": "Fall Wednesday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:30 AM",
@@ -375,6 +513,17 @@
     },
     {
       "name": "Fall Friday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -404,6 +553,17 @@
     },
     {
       "name": "Fall Sunday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -433,6 +593,15 @@
     },
     {
       "name": "Winter Winter 15",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [15],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -454,6 +623,20 @@
     },
     {
       "name": "Winter Monday, Tuesday, Thursday and Saturday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday",
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -475,6 +658,17 @@
     },
     {
       "name": "Winter Wednesday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "wednesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:00 AM",
@@ -504,6 +698,17 @@
     },
     {
       "name": "Winter Friday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -533,6 +738,17 @@
     },
     {
       "name": "Winter Sunday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -562,6 +778,15 @@
     },
     {
       "name": "Deviations Rainy Day (Option 1)",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -587,6 +812,15 @@
     },
     {
       "name": "Deviations Rainy Day (Option 2)",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -616,6 +850,18 @@
     },
     {
       "name": "Deviations 6th or 16th of any Season",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        6,
+        16
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -641,6 +887,123 @@
     },
     {
       "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
+      "season": "spring",
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to Sebastian's room."
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In Sebastian's room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
+      "season": "summer",
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to Sebastian's room."
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In Sebastian's room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
+      "season": "fall",
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
+      "schedules": [
+        {
+          "time": "9:00 AM",
+          "description": "In her bed."
+        },
+        {
+          "time": "10:00 AM",
+          "description": "Leaves home to go to Sebastian's room."
+        },
+        {
+          "time": "12:10 PM",
+          "description": "In Sebastian's room."
+        },
+        {
+          "time": "5:00 PM",
+          "description": "Heads home to go to bed."
+        }
+      ]
+    },
+    {
+      "name": "Deviations 11th & 25th (When you have less than 6 hearts with Sebastian, except in Winter)",
+      "season": "winter",
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -662,6 +1025,20 @@
     },
     {
       "name": "Deviations 11th & 25th of any season (When you have more than 6 hearts with Sebastian)",
+      "season": null,
+      "default": false,
+      "uncertain": true,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "sebastian"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",

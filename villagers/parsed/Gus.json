@@ -16,6 +16,15 @@
   "schedule": [
     {
       "name": "Fall 4",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -41,6 +50,15 @@
     },
     {
       "name": "Rainy day",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -62,6 +80,17 @@
     },
     {
       "name": "Monday",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:30 AM",
@@ -79,6 +108,17 @@
     },
     {
       "name": "Tuesday, community center repaired",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": true,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -100,6 +140,17 @@
     },
     {
       "name": "Sunday, Alex's 14-heart event witnessed",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "sunday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",
@@ -121,6 +172,15 @@
     },
     {
       "name": "Normal Schedule",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 AM",

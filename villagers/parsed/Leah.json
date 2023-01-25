@@ -18,6 +18,17 @@
   "schedule": [
     {
       "name": "Spring Spring 16th",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        16
+      ],
       "schedules": [
         {
           "time": "9:00 am",
@@ -43,6 +54,18 @@
     },
     {
       "name": "Spring Rainy day, Friday, and Saturday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -68,6 +91,17 @@
     },
     {
       "name": "Spring Monday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -93,6 +127,15 @@
     },
     {
       "name": "Spring Normal Schedule",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -126,6 +169,18 @@
     },
     {
       "name": "Summer Rainy day, Friday, and Saturday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -151,6 +206,17 @@
     },
     {
       "name": "Summer Monday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -176,6 +242,15 @@
     },
     {
       "name": "Summer Normal Schedule if the beach bridge has been repaired",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -201,6 +276,15 @@
     },
     {
       "name": "Summer Normal Schedule if the beach bridge has not been repaired",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -226,6 +310,18 @@
     },
     {
       "name": "Fall Rainy day, Friday, and Saturday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday",
+        "saturday"
+      ],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -251,6 +347,17 @@
     },
     {
       "name": "Fall Monday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -276,6 +383,15 @@
     },
     {
       "name": "Fall Normal Schedule",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -301,6 +417,17 @@
     },
     {
       "name": "Winter Winter 15th",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 am",
@@ -326,6 +453,17 @@
     },
     {
       "name": "Winter Monday if it is not raining",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "monday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",
@@ -351,6 +489,15 @@
     },
     {
       "name": "Winter Normal Schedule",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 am",

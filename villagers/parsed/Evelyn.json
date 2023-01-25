@@ -18,6 +18,19 @@
   "schedule": [
     {
       "name": "Tuesday the 2nd",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [
+        2
+      ],
       "schedules": [
         {
           "time": "8:00 am",
@@ -47,6 +60,17 @@
     },
     {
       "name": "Tuesday the 23rd",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "tuesday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -76,6 +100,17 @@
     },
     {
       "name": "Winter 17th",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        17
+      ],
       "schedules": [
         {
           "time": "8:00 am",
@@ -105,6 +140,15 @@
     },
     {
       "name": "Rainy day",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -134,6 +178,19 @@
     },
     {
       "name": "Monday, Thursday, Saturday (community center repaired)",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": true,
+      "DOW": [
+        "monday",
+        "thursday",
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -163,6 +220,15 @@
     },
     {
       "name": "Summer Daily Schedule",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",
@@ -196,6 +262,15 @@
     },
     {
       "name": "Normal Daily Schedule",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "8:00 am",

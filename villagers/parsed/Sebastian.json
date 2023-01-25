@@ -17,6 +17,20 @@
   "schedule": [
     {
       "name": "Spring 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian)  and 15th (any hearts)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -46,6 +60,20 @@
     },
     {
       "name": "Spring 11th & 25th (6+ hearts with Sebastian)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "sebastian)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -83,6 +111,15 @@
     },
     {
       "name": "Spring Rainy day (option 1)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -108,6 +145,15 @@
     },
     {
       "name": "Spring Rainy day (option 2)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -137,6 +183,17 @@
     },
     {
       "name": "Spring Thursday (After unlocking railroad)",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "thursday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -174,6 +231,17 @@
     },
     {
       "name": "Spring Friday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -203,6 +271,17 @@
     },
     {
       "name": "Spring Saturday",
+      "season": "spring",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -240,6 +319,15 @@
     },
     {
       "name": "Spring Regular Schedule",
+      "season": "spring",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -277,6 +365,15 @@
     },
     {
       "name": "Summer Summer 4",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -306,6 +403,20 @@
     },
     {
       "name": "Summer 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian)  and 15th (any hearts)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -335,6 +446,20 @@
     },
     {
       "name": "Summer 11th & 25th (6+ hearts with Sebastian)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "sebastian)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -372,6 +497,15 @@
     },
     {
       "name": "Summer Rainy day (option 1)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -397,6 +531,15 @@
     },
     {
       "name": "Summer Rainy day (option 2)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -426,6 +569,17 @@
     },
     {
       "name": "Summer Thursday (After unlocking railroad)",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "thursday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -463,6 +617,17 @@
     },
     {
       "name": "Summer Friday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -492,6 +657,17 @@
     },
     {
       "name": "Summer Saturday",
+      "season": "summer",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -529,6 +705,15 @@
     },
     {
       "name": "Summer Regular Schedule",
+      "season": "summer",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -566,6 +751,20 @@
     },
     {
       "name": "Fall 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian)  and 15th (any hearts)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -599,6 +798,20 @@
     },
     {
       "name": "Fall 11th & 25th (6+ hearts with Sebastian as well as when raining)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "sebastian as well as when raining)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -636,6 +849,15 @@
     },
     {
       "name": "Fall Rainy day (option 1)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -661,6 +883,15 @@
     },
     {
       "name": "Fall Rainy day (option 2)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -690,6 +921,17 @@
     },
     {
       "name": "Fall Thursday (After unlocking railroad)",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "thursday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -727,6 +969,17 @@
     },
     {
       "name": "Fall Friday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -756,6 +1009,17 @@
     },
     {
       "name": "Fall Saturday",
+      "season": "fall",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -793,6 +1057,15 @@
     },
     {
       "name": "Fall Regular Schedule",
+      "season": "fall",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -838,6 +1111,15 @@
     },
     {
       "name": "Winter Winter 16",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "10:30 AM",
@@ -863,6 +1145,20 @@
     },
     {
       "name": "Winter 11th (Less than 6 hearts with Sebastian)  and 15th (Any hearts)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "less_than_six": "sebastian)  and 15th (any hearts)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        15
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -892,6 +1188,20 @@
     },
     {
       "name": "Winter 11th & 25th (6+ hearts with Sebastian)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": true,
+      "heart_condition": {
+        "more_than_six": "sebastian)"
+      },
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [
+        11,
+        25
+      ],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -929,6 +1239,15 @@
     },
     {
       "name": "Winter Rainy day (option 1)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -954,6 +1273,15 @@
     },
     {
       "name": "Winter Rainy day (option 2)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": true,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -983,6 +1311,17 @@
     },
     {
       "name": "Winter Thursday (After unlocking railroad)",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "thursday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -1020,6 +1359,17 @@
     },
     {
       "name": "Winter Friday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "friday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -1049,6 +1399,17 @@
     },
     {
       "name": "Winter Saturday",
+      "season": "winter",
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [
+        "saturday"
+      ],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",
@@ -1086,6 +1447,15 @@
     },
     {
       "name": "Winter Regular Schedule",
+      "season": "winter",
+      "default": true,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "9:00 AM",

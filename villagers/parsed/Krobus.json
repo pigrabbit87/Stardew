@@ -16,6 +16,15 @@
   "schedule": [
     {
       "name": "Image\n\nName\n\nDescription\n\nQuantity\n\nUnit Price",
+      "season": null,
+      "default": false,
+      "uncertain": false,
+      "heart_dependent": false,
+      "heart_condition": {},
+      "community_center_repaired_dependent": false,
+      "DOW": [],
+      "has_rain": false,
+      "date": [],
       "schedules": [
         {
           "time": "",
