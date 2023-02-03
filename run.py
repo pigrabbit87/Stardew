@@ -69,6 +69,18 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
+class Command(Enum):
+    NEXT_DAY = 1
+    LOCATION_OF_SINGLE_VILLAGER = 2
+    LOCATION_OF_ALL_VILLAGERS = 3
+    EXIT = 0
+
+    def execute(self):
+        if self == self.EXIT:
+            print("Terminating program... Bye byeeeee!")
+            quit()
+
+
 class Validator:
     @classmethod
     def validate_season_input(cls, season_input):
@@ -83,6 +95,13 @@ class Validator:
             raise ValueError(f"Date should be between 1 and 28")
         else:
             return int(date_input)
+
+    @classmethod
+    def validate_command(cls, command_input):
+        try:
+            return Command(int(command_input))
+        except ValueError:
+            print(f"{command_input} is not a valid command.")
 
 
 class Villager:
@@ -151,7 +170,9 @@ if __name__ == "__main__":
         print("1 - To go to the next day")
         print("2 - Get location of a villager")
         print("3 - Get location of all the villagers")
-        print("4 - Exit program")
-        command = input("Enter: ")
+        print("0 - Exit program")
+        command_input = input("Enter: ")
+        command = Validator.validate_command(command_input)
+        command.execute()
 
 
