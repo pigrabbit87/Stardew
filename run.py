@@ -107,14 +107,18 @@ def get_birthday_people(season, date):
         if villager.birthday_season == season and villager.birthday_date == date:
             birthday_people.append(villager)
 
+    print("╔═════════════════✿═════════════════╗")
+    print(f" {season.name} {date}")
+    print(" ---------------------------------- ")
     if birthday_people:
         for birthday_person in birthday_people:
-            print(f"It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
-            print(f"Their favorite gifts are")
+            print(f" It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
+            print(f" Their favorite gifts are")
             for gift in birthday_person.best_gifts:
-                print(f"- {gift}.")
+                print(f"  - {gift}.")
     else:
-        print("There is no birthday today.")
+        print(" There is no birthday today.")
+    print("╚═════════════════✿═════════════════╝")
 
 
 def load_data():
@@ -141,3 +145,13 @@ if __name__ == "__main__":
 
     get_birthday_people(season, date)
     
+    while True:
+        print("What do you want to do next?")
+        print("You can enter:")
+        print("1 - To go to the next day")
+        print("2 - Get location of a villager")
+        print("3 - Get location of all the villagers")
+        print("4 - Exit program")
+        command = input("Enter: ")
+
+
