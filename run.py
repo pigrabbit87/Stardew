@@ -48,6 +48,7 @@ VILLAGERS = [
     'Wizard',
 ]
 
+# Global variabls
 DATA = {}
 
 class Season(Enum):
@@ -120,24 +121,29 @@ class Villager:
         return self.data["basic"]["Best Gifts"]
 
 
-def get_birthday_people(season, date):
-    birthday_people = []
-    for villager_name, villager in DATA.items():
-        if villager.birthday_season == season and villager.birthday_date == date:
-            birthday_people.append(villager)
+class Stardew:
+    def __init__(self, season, date):
+        self.season = season
+        self.date = date
 
-    print("╔═════════════════✿═════════════════╗")
-    print(f" {season.name} {date}")
-    print(" ---------------------------------- ")
-    if birthday_people:
-        for birthday_person in birthday_people:
-            print(f" It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
-            print(f" Their favorite gifts are")
-            for gift in birthday_person.best_gifts:
-                print(f"  - {gift}.")
-    else:
-        print(" There is no birthday today.")
-    print("╚═════════════════✿═════════════════╝")
+    def get_birthday_people(self):
+        birthday_people = []
+        for villager_name, villager in DATA.items():
+            if villager.birthday_season == self.season and villager.birthday_date == self.date:
+                birthday_people.append(villager)
+
+        print("╔═════════════════✿═════════════════╗")
+        print(f" {self.season.name} {self.date}")
+        print(" ---------------------------------- ")
+        if birthday_people:
+            for birthday_person in birthday_people:
+                print(f" It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
+                print(f" Their favorite gifts are")
+                for gift in birthday_person.best_gifts:
+                    print(f"  - {gift}.")
+        else:
+            print(" There is no birthday today.")
+        print("╚═════════════════✿═════════════════╝")
 
 
 def load_data():
@@ -162,7 +168,8 @@ if __name__ == "__main__":
     date_input = input("Please enter the date (1-28): ")
     date = Validator.validate_date_input(date_input)
 
-    get_birthday_people(season, date)
+    stardew = Stardew(season, date)
+    stardew.get_birthday_people()
     
     while True:
         print("What do you want to do next?")
