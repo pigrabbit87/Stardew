@@ -57,6 +57,18 @@ class Season(Enum):
     WINTER = 4
 
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 class Validator:
     @classmethod
     def validate_season_input(cls, season_input):
@@ -84,12 +96,16 @@ class Villager:
         self.birthday_season = Season[birthday.split(' ')[0].upper()]
         self.birthday_date = int(birthday.split(' ')[-1])
 
+    @property
+    def best_gifts(self):
+        return self.data["basic"]["Best Gifts"]
+
 
 def get_birthday_people(season, date):
     results = []
     for villager_name, villager in DATA.items():
         if villager.birthday_season == season and villager.birthday_date == date:
-            results.append(villager_name)
+            results.append(villager)
     return results
 
 
@@ -107,7 +123,7 @@ if __name__ == "__main__":
 
     print("Loading data...")
     data = load_data()
-    print("Data loaded successfully.")
+    print("Data loaded successfully.\n")
 
     season_input = input("Please enter the current season (1-Spring, 2-Summer, 3-Fall, 4-Winter): ")
     season = Validator.validate_season_input(season_input)
@@ -117,7 +133,11 @@ if __name__ == "__main__":
 
     birthday_people = get_birthday_people(season, date)
     if birthday_people:
-        print(f"It is {'and'.join(birthday_people)}'s birthday.")
+        for birthday_person in birthday_people:
+            print(f"It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
+            print(f"Their favorite gifts are")
+            for gift in birthday_person.best_gifts:
+                print(f"- {gift}.")
     else:
         print("There is no birthday today.")
 
