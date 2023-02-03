@@ -168,7 +168,19 @@ class Stardew:
         print("╚═════════════════✿═════════════════╝")
 
     def to_next_day(self):
-        print("Continue to next day")
+        if self.date in range(1, 28):
+            self.date += 1
+        else:
+            if self.season == Season.SPRING:
+                self.season = Season.SUMMER
+            elif self.season == Season.SUMMER:
+                self.season = Season.FALL
+            elif self.season == Season.FALL:
+                self.season = Season.WINTER
+            else:
+                self.season = Season.SPRING
+            self.date = 1
+        self.get_birthday_people()
 
     def get_location_of_villager(self, villager_name):
         print(f"Where is {villager_name}")
