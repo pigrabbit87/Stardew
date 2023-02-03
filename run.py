@@ -102,11 +102,19 @@ class Villager:
 
 
 def get_birthday_people(season, date):
-    results = []
+    birthday_people = []
     for villager_name, villager in DATA.items():
         if villager.birthday_season == season and villager.birthday_date == date:
-            results.append(villager)
-    return results
+            birthday_people.append(villager)
+
+    if birthday_people:
+        for birthday_person in birthday_people:
+            print(f"It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
+            print(f"Their favorite gifts are")
+            for gift in birthday_person.best_gifts:
+                print(f"- {gift}.")
+    else:
+        print("There is no birthday today.")
 
 
 def load_data():
@@ -131,13 +139,5 @@ if __name__ == "__main__":
     date_input = input("Please enter the date (1-28): ")
     date = Validator.validate_date_input(date_input)
 
-    birthday_people = get_birthday_people(season, date)
-    if birthday_people:
-        for birthday_person in birthday_people:
-            print(f"It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
-            print(f"Their favorite gifts are")
-            for gift in birthday_person.best_gifts:
-                print(f"- {gift}.")
-    else:
-        print("There is no birthday today.")
-
+    get_birthday_people(season, date)
+    
