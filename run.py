@@ -13,103 +13,18 @@ from enum import Enum
 
 from models.command import Command
 from models.constants import VILLAGERS, Season, bcolors
-
-
-# Global variabls
-DATA = {}
-
-
-class Validator:
-    @classmethod
-    def validate_season_input(cls, season_input):
-        if season_input not in {"1", "2", "3", "4"}:
-            raise ValueError(f"{season_input} is not a valid season.")
-        else:
-            return Season(int(season_input))
-
-    @classmethod
-    def validate_date_input(cls, date_input):
-        if int(date_input) not in range(1, 29):
-            raise ValueError(f"Date should be between 1 and 28")
-        else:
-            return int(date_input)
-
-    @classmethod
-    def validate_command(cls, command_input):
-        try:
-            return Command(int(command_input))
-        except ValueError:
-            print(f"{command_input} is not a valid command.")
-
-
-class Villager:
-    def __init__(self, name, data):
-        self.name = name
-        self.data = data
-        self.parse_birthday()
-
-    def parse_birthday(self):
-        birthday = self.data["basic"]["Birthday"]
-        self.birthday_season = Season[birthday.split(' ')[0].upper()]
-        self.birthday_date = int(birthday.split(' ')[-1])
-
-    @property
-    def best_gifts(self):
-        return self.data["basic"]["Best Gifts"]
-
-
-class Stardew:
-    def __init__(self, season, date):
-        self.season = season
-        self.date = date
-
-    def get_birthday_people(self):
-        birthday_people = []
-        for villager_name, villager in DATA.items():
-            if villager.birthday_season == self.season and villager.birthday_date == self.date:
-                birthday_people.append(villager)
-
-        print("╔═════════════════✿═════════════════╗")
-        print(f" {self.season.name} {self.date}")
-        print(" ---------------------------------- ")
-        if birthday_people:
-            for birthday_person in birthday_people:
-                print(f" It is {bcolors.HEADER}{birthday_person.name}'s{bcolors.ENDC} birthday.")
-                print(f" Their favorite gifts are")
-                for gift in birthday_person.best_gifts:
-                    print(f"  - {gift}.")
-        else:
-            print(" There is no birthday today.")
-        print("╚═════════════════✿═════════════════╝")
-
-    def to_next_day(self):
-        if self.date in range(1, 28):
-            self.date += 1
-        else:
-            if self.season == Season.SPRING:
-                self.season = Season.SUMMER
-            elif self.season == Season.SUMMER:
-                self.season = Season.FALL
-            elif self.season == Season.FALL:
-                self.season = Season.WINTER
-            else:
-                self.season = Season.SPRING
-            self.date = 1
-        self.get_birthday_people()
-
-    def get_location_of_villager(self, villager_name):
-        print(f"Where is {villager_name}")
-
-    def get_location_of_everyone(self):
-        print(f"Where is everyone?")
+from models.validator import Validator
+from models.villager import Villager
+from models.stardew import Stardew
 
 
 def load_data():
-    global DATA
+    data = {}
     folder_path = 'villagers/parsed'
     for villager in VILLAGERS:
         with open(f'{folder_path}/{villager}.json', 'r') as f:
-            DATA[villager] = Villager(villager, json.load(f))
+            data[villager] = Villager(villager, json.load(f))
+    return data
 
 
 if __name__ == "__main__":
@@ -126,7 +41,7 @@ if __name__ == "__main__":
     date_input = input("Please enter the date (1-28): ")
     date = Validator.validate_date_input(date_input)
 
-    stardew = Stardew(season, date)
+    stardew = Stardew(season, date, data)
     stardew.get_birthday_people()
     Command.describe()
     
