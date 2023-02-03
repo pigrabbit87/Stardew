@@ -74,12 +74,34 @@ class Command(Enum):
     NEXT_DAY = 1
     LOCATION_OF_SINGLE_VILLAGER = 2
     LOCATION_OF_ALL_VILLAGERS = 3
+    COMMAND = 9
     EXIT = 0
 
-    def execute(self):
-        if self == self.EXIT:
+    def execute(self, stardew):
+        if self == self.NEXT_DAY:
+            stardew.to_next_day()
+        elif self == self.LOCATION_OF_SINGLE_VILLAGER:
+            stardew.get_location_of_villager("test")
+        elif self == self.LOCATION_OF_ALL_VILLAGERS:
+            stardew.get_location_of_everyone()
+        elif self == self.COMMAND:
+            self.describe()
+        elif self == self.EXIT:
             print("Terminating program... Bye byeeeee!")
             quit()
+
+    @classmethod
+    def describe(cls):
+        description = \
+            "******************************************\n" \
+            "* Available commands:                    *\n" \
+            "* 1 - To go to the next day              *\n" \
+            "* 2 - Get location of a villager         *\n" \
+            "* 3 - Get location of all the villagers  *\n" \
+            "* 9 - Help menu                          *\n" \
+            "* 0 - Exit program                       *\n" \
+            "******************************************"
+        print(description)
 
 
 class Validator:
@@ -145,6 +167,15 @@ class Stardew:
             print(" There is no birthday today.")
         print("╚═════════════════✿═════════════════╝")
 
+    def to_next_day(self):
+        print("Continue to next day")
+
+    def get_location_of_villager(self, villager_name):
+        print(f"Where is {villager_name}")
+
+    def get_location_of_everyone(self):
+        print(f"Where is everyone?")
+
 
 def load_data():
     global DATA
@@ -170,16 +201,13 @@ if __name__ == "__main__":
 
     stardew = Stardew(season, date)
     stardew.get_birthday_people()
+    Command.describe()
     
     while True:
-        print("What do you want to do next?")
-        print("You can enter:")
-        print("1 - To go to the next day")
-        print("2 - Get location of a villager")
-        print("3 - Get location of all the villagers")
-        print("0 - Exit program")
-        command_input = input("Enter: ")
+        command_input = input("What do you want to do next? (Press 9 for help menu) ")
         command = Validator.validate_command(command_input)
-        command.execute()
+        if command:
+            command.execute(stardew)
+        print("----------------------------")
 
 
