@@ -13,14 +13,25 @@ class Command(Enum):
         if self == self.NEXT_DAY:
             stardew.to_next_day()
         elif self == self.LOCATION_OF_SINGLE_VILLAGER:
-            villager_input = input("Enter the name of the villager: ")
-            villager_name = Validator.validate_villager(villager_input)
+            print("╔═════════════════✿═════════════════╗")
+            print(f" On {stardew.season.name.capitalize()} {stardew.date} {stardew.dow.name.capitalize()}...")
 
-            time_input = input("what is the current time (HH:mm - 24 hr)? ")
-            hour, minute = Validator.validate_time(time_input)
+            while True:
+                villager_input = input(" Enter the name of the villager: ")
+                villager_name = Validator.validate_villager(villager_input)
 
-            if villager_name and hour is not None and minute is not None:
-                stardew.get_location_of_villager(villager_name, hour, minute)
+                time_input = input(" what is the current time (HH:mm - 24 hr)? ")
+                hour, minute = Validator.validate_time(time_input)
+
+                if villager_name and hour is not None and minute is not None:
+                    stardew.get_location_of_villager(villager_name, hour, minute)
+
+                next_command = input(" Continue(c) ")
+                if next_command != "c":
+                    break
+                print("--------------------------------------")
+
+            print("╚═════════════════✿═════════════════╝")
 
         elif self == self.LOCATION_OF_ALL_VILLAGERS:
             stardew.get_location_of_everyone()

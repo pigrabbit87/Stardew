@@ -49,22 +49,22 @@ class Stardew:
 
     def get_location_of_villager(self, villager_name, hour, minute):
         valid_schedule = self.get_valid_schedule(self.data[villager_name].schedules)
-        current_schedule = valid_schedule["schedules"][-1]
+
+        # The starting schedule is everyone at their home location
         current_location = f"at her home in {self.data[villager_name].home_location}"
-        next_time = 2400
+        current_time = self.convert_hour_and_minute_to_number(hour, minute)
+        next_time = self.convert_standard_time_to_number(valid_schedule["schedules"][0]["time"])
+
         for schedule in valid_schedule["schedules"]:
             schedule_time = self.convert_standard_time_to_number(schedule["time"])
-            current_time = self.convert_hour_and_minute_to_number(hour, minute)
-            if current_time < schedule_time:
-                current_schedule = schedule
-                current_location = current_schedule['description']
+            if schedule_time > current_time:
                 next_time = schedule_time
                 break
-            
-        print("╔═════════════════✿═════════════════╗")
-        print(f" On {self.season.name} {self.date}, a {'raining' if self.is_raining else 'sunny'} day.")
-        print(f" At {hour}:{minute}, {villager_name} is {current_schedule['description']} until {next_time}")
-        print("╚═════════════════✿═════════════════╝")
+
+            current_location = schedule['description']
+
+        print(f" At {bcolors.OKBLUE}{hour}:{minute}{bcolors.ENDC}, {bcolors.BOLD}{villager_name}{bcolors.ENDC}" \
+              f" is {current_location} until {next_time}")
 
     def get_location_of_everyone(self):
         print(f"Where is everyone?")
