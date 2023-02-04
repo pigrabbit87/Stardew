@@ -1,3 +1,5 @@
+import json
+
 from models.constants import Season, bcolors, DateOfWeek
 
 
@@ -103,6 +105,11 @@ class Stardew:
                 continue
 
             return schedule
+
+    def get_villager_basic(self, villager_name):
+        villager = self.data[villager_name]
+
+        print(json.dumps(villager.basic_info, indent=2))
 
     """
     Return the day of the week from the date

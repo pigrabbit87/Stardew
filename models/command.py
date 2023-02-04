@@ -7,6 +7,7 @@ class Command(Enum):
     NEXT_DAY = 1
     LOCATION_OF_SINGLE_VILLAGER = 2
     LOCATION_OF_ALL_VILLAGERS = 3
+    VILLAGER_BASIC = 4
     COMMAND = 9
     EXIT = 0
 
@@ -46,12 +47,29 @@ class Command(Enum):
                 next_command = input(" continue(c) ")
                 if next_command != "c":
                     break
-                print("--------------------------------------")
+                print(" --------------------------------------")
 
             print("╚═════════════════✿═════════════════╝")
 
         elif self == self.LOCATION_OF_ALL_VILLAGERS:
             stardew.get_location_of_everyone()
+        elif self == self.VILLAGER_BASIC:
+            print("╔═════════════════✿═════════════════╗")
+            villager_name = None
+
+            while True:
+                villager_input = input(f" {bcolors.BOLD}Name:{bcolors.ENDC} ")
+                villager_name = Validator.validate_villager(villager_input)
+                stardew.get_villager_basic(villager_name)
+
+                next_command = input(" continue(c) ")
+                if next_command != "c":
+                    break
+                print(" --------------------------------------")
+
+            print("╚═════════════════✿═════════════════╝")
+
+
         elif self == self.COMMAND:
             self.describe()
         elif self == self.EXIT:
@@ -66,6 +84,7 @@ class Command(Enum):
             "* 1 - To go to the next day              *\n" \
             "* 2 - Get location of a villager         *\n" \
             "* 3 - Get location of all the villagers  *\n" \
+            "* 4 - Get info of a villager             *\n" \
             "* 9 - Help menu                          *\n" \
             "* 0 - Exit program                       *\n" \
             "******************************************"

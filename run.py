@@ -44,6 +44,5 @@ if __name__ == "__main__":
         command = Validator.validate_command(command_input)
         if command is not None:
              Command(command).execute(stardew)
-        print("----------------------------")
 
 
