@@ -1,5 +1,6 @@
 from enum import Enum
 from models.validator import Validator
+from models.constants import bcolors
 
 
 class Command(Enum):
@@ -14,19 +15,35 @@ class Command(Enum):
             stardew.to_next_day()
         elif self == self.LOCATION_OF_SINGLE_VILLAGER:
             print("╔═════════════════✿═════════════════╗")
-            print(f" On {stardew.season.name.capitalize()} {stardew.date} {stardew.dow.name.capitalize()}...")
+            print(f" On {stardew.season.name.capitalize()} {stardew.date}, "\
+                  f"a {stardew.weather} {stardew.dow.name.capitalize()}...")
+            print(" ----------------------------------")
+
+            villager_name = None
+            hour = None
+            minute = None
 
             while True:
-                villager_input = input(" Enter the name of the villager: ")
-                villager_name = Validator.validate_villager(villager_input)
+                if villager_name is None:
+                    villager_input = input(f" {bcolors.BOLD}Name:{bcolors.ENDC} ")
+                    villager_name = Validator.validate_villager(villager_input)
+                else:
+                    villager_input = input(f" {bcolors.BOLD}Name{bcolors.ENDC} (Press enter if it's {villager_name}): ")
+                    if villager_input:
+                        villager_name = Validator.validate_villager(villager_input)
 
-                time_input = input(" what is the current time (HH:mm - 24 hr)? ")
-                hour, minute = Validator.validate_time(time_input)
+                if hour is None:
+                    time_input = input(f" {bcolors.BOLD}Time (HH:mm - 24 hr):{bcolors.ENDC} ")
+                    hour, minute = Validator.validate_time(time_input)
+                else:
+                    time_input = input(f" {bcolors.BOLD}Time (HH:mm - 24 hr):{bcolors.ENDC} (Press enter if it's {hour}:{minute}): ")
+                    if time_input:
+                        hour, minute = Validator.validate_time(time_input)
 
                 if villager_name and hour is not None and minute is not None:
                     stardew.get_location_of_villager(villager_name, hour, minute)
 
-                next_command = input(" Continue(c) ")
+                next_command = input(" continue(c) ")
                 if next_command != "c":
                     break
                 print("--------------------------------------")

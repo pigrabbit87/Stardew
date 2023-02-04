@@ -12,6 +12,13 @@ class Stardew:
     def dow(self):
         return self.get_dow(self.date)
 
+    @property
+    def weather(self):
+        if self.is_raining:
+            return "rainy"
+        else:
+            return "sunny"
+
     def get_birthday_people(self):
         birthday_people = []
         for villager_name, villager in self.data.items():
@@ -51,7 +58,7 @@ class Stardew:
         valid_schedule = self.get_valid_schedule(self.data[villager_name].schedules)
 
         # The starting schedule is everyone at their home location
-        current_location = f"at her home in {self.data[villager_name].home_location}"
+        current_location = f"at their home in {self.data[villager_name].home_location}"
         current_time = self.convert_hour_and_minute_to_number(hour, minute)
         next_time = self.convert_standard_time_to_number(valid_schedule["schedules"][0]["time"])
 
@@ -63,8 +70,17 @@ class Stardew:
 
             current_location = schedule['description']
 
-        print(f" At {bcolors.OKBLUE}{hour}:{minute}{bcolors.ENDC}, {bcolors.BOLD}{villager_name}{bcolors.ENDC}" \
-              f" is {current_location} until {next_time}")
+        print(f" > [{valid_schedule['name']}]")
+        print(f" > Between {bcolors.OKBLUE}{self.convert_to_readable_time(current_time)} and " \
+              f"{self.convert_to_readable_time(next_time)}{bcolors.ENDC}, {bcolors.OKGREEN}{villager_name}{bcolors.ENDC}" \
+              f" {self.beautify_location_string(current_location)}")
+
+    def beautify_location_string(self, location_string):
+        first_word, rest_words = location_string.split(' ', 1)
+        if first_word.lower() in {'in', 'at'}:
+            return f"is {first_word.lower()} {rest_words}"
+        else:
+            return f"{first_word.lower()} {rest_words}"
 
     def get_location_of_everyone(self):
         print(f"Where is everyone?")
@@ -104,9 +120,11 @@ class Stardew:
     def convert_hour_and_minute_to_number(self, hour, minute):
         return hour * 100 + minute
 
-    def convert_number_to_time(self, time_number, standard=True):
+    def convert_to_readable_time(self, time_number, standard=True):
         hour = time_number // 100
         minute = time_number % 100
+        if minute < 10:
+            minute = f"0{minute}"
 
         if standard:
             if hour > 12:
