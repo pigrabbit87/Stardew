@@ -41,8 +41,8 @@ class Stardew:
             self.date = 1
         self.get_birthday_people()
 
-    def get_location_of_villager(self, villager_name):
-        print(f"Where is {villager_name}")
+    def get_location_of_villager(self, villager_name, hour, minute):
+        print(f"Where is {villager_name} at {hour}:{minute}")
 
     def get_location_of_everyone(self):
         print(f"Where is everyone?")

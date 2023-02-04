@@ -1,5 +1,4 @@
-from models.command import Command
-from models.constants import Season
+from models.constants import Season, VILLAGERS
 
 
 class Validator:
@@ -20,6 +19,27 @@ class Validator:
     @classmethod
     def validate_command(cls, command_input):
         try:
-            return Command(int(command_input))
+            return int(command_input)
         except ValueError:
             print(f"{command_input} is not a valid command.")
+
+    @classmethod
+    def validate_villager(cls, villager_input):
+        villager_input = villager_input.lower().capitalize()
+        if villager_input not in VILLAGERS:
+            print(f"{villager_input} is not a villager.")
+        else:
+            return villager_input
+
+    @classmethod
+    def validate_time(cls, time_input):
+        hour, minute = time_input.split(':')
+        if int(hour) not in range(0, 24):
+            print(f"Hour should be between 0 and 23")
+            return
+
+        if int(minute) not in range(0, 60):
+            print(f"Minute should be between 0 and 59")
+            return
+
+        return int(hour), int(minute)

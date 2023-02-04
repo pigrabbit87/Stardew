@@ -1,19 +1,11 @@
-"""
-1. Get the date and weather
-2. return the birthday
-3. Continue receiving input of time. Also optional of the person's name
-
-
-python run.py
-"""
 import json
 import sys
 
 from enum import Enum
 
-from models.command import Command
 from models.constants import VILLAGERS, Season, bcolors
 from models.validator import Validator
+from models.command import Command
 from models.villager import Villager
 from models.stardew import Stardew
 
@@ -48,8 +40,8 @@ if __name__ == "__main__":
     while True:
         command_input = input("What do you want to do next? (Press 9 for help menu) ")
         command = Validator.validate_command(command_input)
-        if command:
-            command.execute(stardew)
+        if command is not None:
+             Command(command).execute(stardew)
         print("----------------------------")
 
 
