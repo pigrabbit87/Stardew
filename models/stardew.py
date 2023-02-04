@@ -1,11 +1,16 @@
-from models.constants import Season, bcolors
+from models.constants import Season, bcolors, DateOfWeek
 
 
 class Stardew:
-    def __init__(self, season, date, data):
+    def __init__(self, season, date, is_raining, data):
         self.season = season
         self.date = date
+        self.is_raining = is_raining
         self.data = data
+
+    @property
+    def dow(self):
+        return self.get_dow(self.date)
 
     def get_birthday_people(self):
         birthday_people = []
@@ -39,10 +44,81 @@ class Stardew:
             else:
                 self.season = Season.SPRING
             self.date = 1
+        # TODO: Is it raining?
         self.get_birthday_people()
 
     def get_location_of_villager(self, villager_name, hour, minute):
-        print(f"Where is {villager_name} at {hour}:{minute}")
+        valid_schedule = self.get_valid_schedule(self.data[villager_name].schedules)
+        current_schedule = valid_schedule["schedules"][-1]
+        current_location = f"at her home in {self.data[villager_name].home_location}"
+        next_time = 2400
+        for schedule in valid_schedule["schedules"]:
+            schedule_time = self.convert_standard_time_to_number(schedule["time"])
+            current_time = self.convert_hour_and_minute_to_number(hour, minute)
+            if current_time < schedule_time:
+                current_schedule = schedule
+                current_location = current_schedule['description']
+                next_time = schedule_time
+                break
+            
+        print("╔═════════════════✿═════════════════╗")
+        print(f" On {self.season.name} {self.date}, a {'raining' if self.is_raining else 'sunny'} day.")
+        print(f" At {hour}:{minute}, {villager_name} is {current_schedule['description']} until {next_time}")
+        print("╚═════════════════✿═════════════════╝")
 
     def get_location_of_everyone(self):
         print(f"Where is everyone?")
+
+    def get_valid_schedule(self, schedules):
+        for schedule in schedules:
+            if schedule["season"] and schedule["season"] != self.season.name.lower():
+                continue
+
+            if schedule["has_rain"] != self.is_raining:
+                continue
+
+            if schedule["DOW"] and self.dow.name not in schedule["DOW"]:
+                continue
+
+            if schedule["date"] and self.date not in schedule["date"]:
+                continue
+
+            return schedule
+
+    """
+    Return the day of the week from the date
+    """
+    def get_dow(self, date):
+        return DateOfWeek(date % 7)
+
+    def convert_standard_time_to_number(self, time):
+        """
+        time in the format of 08:00 AM
+        """
+        time, morning_or_night = time.split(' ')
+        hour, minute = map(int, time.split(":"))
+        if morning_or_night.lower() == "pm" and hour != 12:
+            hour += 12
+        return self.convert_hour_and_minute_to_number(hour, minute)
+
+    def convert_hour_and_minute_to_number(self, hour, minute):
+        return hour * 100 + minute
+
+    def convert_number_to_time(self, time_number, standard=True):
+        hour = time_number // 100
+        minute = time_number % 100
+
+        if standard:
+            if hour > 12:
+                hour -= 12
+                return f"{hour}:{minute} PM"
+            elif hour == 12:
+                return f"{hour}:{minute} PM"
+            else:
+                return f"{hour}:{minute} AM"
+
+        else:
+            # TODO implement non standard
+            return ""
+
+

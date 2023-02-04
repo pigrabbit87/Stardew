@@ -33,7 +33,9 @@ if __name__ == "__main__":
     date_input = input("Please enter the date (1-28): ")
     date = Validator.validate_date_input(date_input)
 
-    stardew = Stardew(season, date, data)
+    raining_input = input("Is it raining (T/F)? ")
+
+    stardew = Stardew(season, date, raining_input == "T", data)
     stardew.get_birthday_people()
     Command.describe()
     

@@ -16,3 +16,10 @@ class Villager:
     def best_gifts(self):
         return self.data["basic"]["Best Gifts"]
 
+    @property
+    def schedules(self):
+        return self.data["schedule"]
+
+    @property
+    def home_location(self):
+        return f'{self.data["basic"]["Address"]}, {self.data["basic"]["Lives In"]}'
