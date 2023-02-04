@@ -51,7 +51,10 @@ class Stardew:
             else:
                 self.season = Season.SPRING
             self.date = 1
-        # TODO: Is it raining?
+        
+        raining_input = input("Is it raining (t/f)? ")
+        self.is_raining = raining_input == "t"
+
         self.get_birthday_people()
 
     def get_location_of_villager(self, villager_name, hour, minute):

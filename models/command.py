@@ -36,7 +36,7 @@ class Command(Enum):
                     time_input = input(f" {bcolors.BOLD}Time (HH:mm - 24 hr):{bcolors.ENDC} ")
                     hour, minute = Validator.validate_time(time_input)
                 else:
-                    time_input = input(f" {bcolors.BOLD}Time (HH:mm - 24 hr):{bcolors.ENDC} (Press enter if it's {hour}:{minute}): ")
+                    time_input = input(f" {bcolors.BOLD}Time (HH:mm - 24 hr){bcolors.ENDC} (Press enter if it's {hour}:{minute}): ")
                     if time_input:
                         hour, minute = Validator.validate_time(time_input)
 
